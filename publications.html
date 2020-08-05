@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>publications</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-inverse  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Dr. Thais Vasconcelos</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">home</a>
+</li>
+<li>
+  <a href="about.html">about</a>
+</li>
+<li>
+  <a href="publications.html">publications</a>
+</li>
+<li>
+  <a href="cv.html">cv</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="https://scholar.google.com/citations?user=bpkWIywAAAAJ&amp;hl=en&amp;oi=ao">scholar</a>
+</li>
+<li>
+  <a href="https://github.com/tncvasconcelos">
+    <span class="fa fa-github"></span>
+     
+    
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">publications</h1>
+
+</div>
+
+
+<div id="section" class="section level2">
+<h2>2020</h2>
+<p>Colli-Silva M, Reginato M, Cabral A, Forzza RC, Pirani JR, Vasconcelos TNC. (in press.) Evaluating shortfalls in biodiversity documentation for the Atlantic Forest, the most diverse and threatened Brazilian phytophysiognomic domain. Taxon</p>
+<p>Sperotto P, Acevedo-Rodríguez P, Vasconcelos TNC, Roque N. 2020. Towards a standardization of the terminology for the climbing habit in plants. The Botanical Review</p>
+<p>Reginato M, Vasconcelos TNC, Kriebel R, Simões A. 2020. Is dispersal mode a driver of diversification and geographical distribution in the diverse tropical plant family Melastomataceae? Mol. Phylogenet. Evol.</p>
+<p>Vasconcelos TNC, Alcantara S, Andrino C, Forest F, Reginato M, Simon M, Pirani JR. 2020. Plant diversification in the highly diverse campo rupestre reveals rapid and recent radiations in ancient mountaintops. Proc R Soc Lond [Biol]. 287, 20192933</p>
+<p>Almeida RBP, Antar GM, Vasconcelos TNC, Santos LL, Amorim BS. 2020. Myrcia lucasae (Myrtaceae), a new species from the campo rupestre of Chapada Diamantina, Brazil. Phytotaxa 435 (3), 227–234</p>
+<p>Aguiar A, Melo G, Vasconcelos TNC, Goncalves R, Giuliano L, Martins A. 2020. Biogeography and early diversification of Tapinotaspidini oil-bees support presence of Paleocene savannas in South America. Mol. Phylogenet. Evol. 143, 106692</p>
+<p>Vasconcelos TNC, Lucas E, Giaretta A, Conejero M, Prenner G. 2020. Convergent evolution in calyptrate flowers of Syzygieae (Myrtaceae) Bot. J. Linn. Soc. 192 (3), 498–509</p>
+</div>
+<div id="section-1" class="section level2">
+<h2>2019</h2>
+<p>Lucas EL, Holst B, Sobral M, Mazine FF, Nic Lughadha EM, Proença CEB, Vasconcelos TNC. 2019. A new infra-generic classification of the predominantly South American tribe Myrteae (Myrtaceae) Syst. Bot 44(3): 560–569.</p>
+<p>Vasconcelos TNC, Prenner G, Lucas EJ 2019. A systematic overview of floral diversity in Myrteae (Myrtaceae). Syst. Bot. 44(3): 570–591.</p>
+<p>Giaretta A, Vasconcelos TNC, Mazine FF, Faria JEQ, Flores R, Holst B, Sano PT, Lucas E. 2019. Calyx (con)fusion in a hyper-diverse genus: parallel evolution of unusual flower patterns in Eugenia (Myrtaceae). Mol. Phylogenet. Evol. 139, 106553.</p>
+<p>Amorim BS, Vasconcelos TNC, Souza G, Alves M, Antonelli A, Lucas E. 2019. Advanced understanding of phylogenetic relationships, morphological evolution and biogeographic history of the mega-diverse plant genus Myrcia and its relatives (Myrtaceae: Myrteae). Mol. Phylogenet. Evol. 138, 65–88.</p>
+<p>Nic Lughadha E, Staggemeier V, Vasconcelos TNC, Walker B, Canteiro C, Lucas E. 2019. Harnessing the potential of integrated systematics for the conservation of taxonomically complex, megadiverse plant groups. Conserv Biol. 33, 511–522.</p>
+<p>De la Estrella M, Buerki S, Vasconcelos TNC, Lucas E, Forest F. 2019. The Role of Antarctica in Biogeographical Reconstruction: A Point Of View, Int. J. Plant Sci. 180: 63–71.</p>
+<p>Colli-Silva M, Vasconcelos TNC, Pirani JR. 2019 Outstanding plant endemism levels strongly support the recognition of campo rupestre bioregions in mountaintops of eastern South America J Biogeogr. 46:1723–1733.</p>
+<p>Vasconcelos TNC, Chartier M, Prenner G, Martins AC, Schönenberger J, et al. 2019. Floral uniformity through evolutionary time in a species-rich tree lineage. New Phytol. 221(3): 1597–1608.</p>
+</div>
+<div id="section-2" class="section level2">
+<h2>2018</h2>
+<p>Vasconcelos TNC, Lucas EJ, Faria JE, Prenner G. 2018. Floral heterochrony promotes flexibility of reproductive strategies in the morphologically homogeneous genus Eugenia (Myrtaceae). Ann. Bot. 121: 161–174.</p>
+<p>Mazine FF, Faria JEQ, Giaretta A, Vasconcelos TNC, Forest F, Lucas E. 2018 Phylogeny and biogeography of the hyper diverse genus Eugenia (Myrtaceae: Myrteae), with emphasis on sect. Umbellatae, the most unmanageable clade. Taxon 67(4): 752–769</p>
+<p>BFG 2018, Vasconcelos TNC. 2018 Brazilian Flora 2020: Innovation and collaboration to meet Target 1 of the Global Strategy for Plant Conservation (GSPC) Rodriguesia 69(4): 1513–1527.</p>
+<p>Lucas EJ, Amorim BS, Lima DF, Lima-Lourenço AR, Nic Lughadha EM, Proença CEB, Rosa PO, Rosário AS, Santos LL, Santos MF, Souza MC, Staggemeier VG, Vasconcelos TNC, Sobral M. 2018. A new infra-generic classification of the species-rich Neotropical genus Myrcia s.l. Kew Bulletin. 73 (1): 9.</p>
+<p>Vasconcelos TNC, Lucas EJ, Peguero B. 2018. One new species, two new combinations and taxonomic notes on the All-spice genus Pimenta (Myrtaceae) from Hispaniola. Phytotaxa 348 (1): 32–40.</p>
+</div>
+<div id="section-3" class="section level2">
+<h2>2017</h2>
+<p>Vasconcelos TNC, Proença CE, Ahmad B, Aguilar DS, Aguilar R, Amorim BS, et al. 2017. Myrteae phylogeny, calibration, biogeography and diversification patterns: Increased understanding in the most species rich tribe of Myrtaceae. Mol. Phylogenet. Evol. 109: 113–137.</p>
+<p>Vasconcelos TNC, Prenner G, Santos MF, Wingler A, Lucas EJ. 2017. Links between parallel evolution and systematic complexity in angiosperms: A case study of floral development in Myrcia sl (Myrtaceae). Perspect Plant Ecol Syst. 24: 11–24.</p>
+</div>
+<div id="section-4" class="section level2">
+<h2>2015</h2>
+<p>Vasconcelos TNC, Silva JS, Ianhez ML, Proença CE. 2015. Floristic survey of the Brazilian Ages Memorial: a Cerrado sensu stricto area with an educational relevance. Check List 11(4): 1689.</p>
+<p>Vasconcelos TNC, Proença CE. 2015. Floral cost vs. floral display: Insights from the megadiverse Myrtales suggest that energetically expensive floral parts are less phylogenetically constrained. American Journal of Botany 102(6): 900–909.</p>
+<p>Vasconcelos TNC, Prenner G, Bünger MO, De-Carvalho PS, Wingler A, Lucas EJ. 2015. Systematic and evolutionary implications of stamen position in Myrteae (Myrtaceae). Botanical Journal of the Linnean Society 179(3): 388–402.</p>
+</div>
+<div id="section-5" class="section level2">
+<h2>2012</h2>
+<p>Vasconcelos TNC, Silva JS, Proença CEB. 2012. Testando a função PPI: análise de previsibilidade fenológica utilizando dados de herbário. Heringeriana 6(1): 66–69.</p>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

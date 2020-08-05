@@ -1,0 +1,26 @@
+name: "YOURNAME"                                # CHANGE HERE 
+output_dir: "."
+navbar:
+  title: "Dr. Thais Vasconcelos"                             # CHANGE HERE 
+  theme: cosmo
+  type: inverse
+  left:
+    - text: "home"
+      href: index.html
+    - text: "about"
+      href: about.html
+    - text: "publications"
+      href: publications.html
+    - text: "cv"
+      href: cv.html
+  right:
+    - text: "scholar"
+      href: https://scholar.google.com/citations?user=bpkWIywAAAAJ&hl=en&oi=ao # CHANGE HERE OR DELETE ALL 3 LINES 
+    - text: ""
+      icon: fa-github
+      href: https://github.com/tncvasconcelos      # CHANGE HERE 
+output:
+  html_document:
+    css: style.css
+    highlight: textmate
+    

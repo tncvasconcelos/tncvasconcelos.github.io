@@ -1,24 +1,26 @@
 ---
-title: "homepage"
+title:   ""
 
 ---
+#
+#
+#
+![](images/index-02.jpg)
 
-## R Markdown
+# 
+#
+#
+## Hello!
+#
+I'm a postdoc based at the Beaulieu lab, University of Arkansas. 
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+Address:
+Department of Biological Sciences, University of Arkansas, Fayetteville, AR 72701, USA
+Email: 
+tvasc@uark.edu
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+Key words: biogeography, botany, macroevolution, neotropics, Myrtales, systematics, trait evolution.
 
-```{r cars}
-summary(cars)
-```
 
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+You can also contact me anytime in my personal email: thais.nogales@gmail.com 
+(Nogales is my first surname, but I use Vasconcelos for publications. Vasconcelos is my last surname. Brazilians have lots of surnames. I know, it's confusing.)

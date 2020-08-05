@@ -1,26 +1,26 @@
 name: "YOURNAME"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "things"                             # CHANGE HERE 
+  title: "Dr. Thais Vasconcelos"                             # CHANGE HERE 
+  theme: cosmo
   type: inverse
   left:
-    - text: "Home"
+    - text: "home"
       href: index.html
-    - text: "About"
-      href: about.Rmd
-    - text: "CV"
+    - text: "about"
+      href: about.html
+    - text: "publications"
+      href: publications.html
+    - text: "cv"
       href: cv.html
-    - text: "Google Scholar"
-      href: https://tvasconcelos.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
   right:
-    - text: "Contact me"
-      icon: fa-envelope-o
-      href: mailto:thais.nogales@gmail.com                    # CHANGE HERE 
-    - text: "GitHub"
+    - text: "scholar"
+      href: https://scholar.google.com/citations?user=bpkWIywAAAAJ&hl=en&oi=ao # CHANGE HERE OR DELETE ALL 3 LINES 
+    - text: ""
       icon: fa-github
-      href: https://tncvasconcelos.github.com/       # CHANGE HERE 
+      href: https://github.com/tncvasconcelos      # CHANGE HERE 
 output:
   html_document:
-    theme: cosmo
+    css: style.css
     highlight: textmate
     
