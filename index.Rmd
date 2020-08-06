@@ -2,25 +2,18 @@
 title:   ""
 
 ---
-#
-#
-#
-![](images/index-02.jpg)
 
-# 
-#
-#
-## Hello!
-#
-I'm a postdoc based at the Beaulieu lab, University of Arkansas. 
+![](images/index1b.jpg){ width=100% } 
+  
+  
+<center>
 
-Address:
-Department of Biological Sciences, University of Arkansas, Fayetteville, AR 72701, USA
-Email: 
-tvasc@uark.edu
+<font size="5">THAIS VASCONCELOS</font>
 
-Key words: biogeography, botany, macroevolution, neotropics, Myrtales, systematics, trait evolution.
+biogeography, botany, macroevolution, Neotropics, Myrtales, systematics, trait evolution.  
+  
+</center>
+  
+  
+![](images/index-02.jpg){ width=100% }  
 
-
-You can also contact me anytime in my personal email: thais.nogales@gmail.com 
-(Nogales is my first surname, but I use Vasconcelos for publications. Vasconcelos is my last surname. Brazilians have lots of surnames. I know, it's confusing.)

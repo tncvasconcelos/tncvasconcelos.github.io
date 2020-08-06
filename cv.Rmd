@@ -1,5 +1,25 @@
 ---
-title: "cv"
+title: ""
 ---
+![](images/index.jpg){ width=100% }
 
-<a href="TVasconcelos_CV_July_2020#" class="download" title="Download CV as PDF">Download my CV here</a>	
+<style> body {text-align: justify} </style>
+#
+  
+# Qualifications and Appointments
+
+- BSc - Universidade de Brasilia (Brazil), 2007 - 2011  
+- MSc - Universidade de Brasilia (Brazil), 2011 - 2013  
+- PhD - Royal Botanic Gardens, Kew / University College London (UK), 2013 - 2017  
+- Postdoc - Universidade de São Paulo (Brazil), 2018 - 2020  
+- Postdoc - University of Arkansas (USA), 2020 - present  
+  
+# Associate editor  
+  
+- Plant Systematics and Evolution, 2019 - present  
+- Botanical Journal of the Linnean Society, 2020 - present  
+ 
+ 
+ 
+  
+<a href="TVasconcelos_CV_July_2020.pdf#" class="download" style="color:blue" title="Download CV as PDF">Download my complete CV here</a>	

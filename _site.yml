@@ -1,24 +1,28 @@
 name: "YOURNAME"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "Dr. Thais Vasconcelos"                             # CHANGE HERE 
+  title: "Thais Vasconcelos"                             # CHANGE HERE 
+  font-size: 24
   theme: cosmo
   type: inverse
   left:
-    - text: "home"
+    - text: "HOME"
       href: index.html
-    - text: "about"
+    - text: "RESEARCH"
       href: about.html
-    - text: "publications"
+    - text: "PUBLICATIONS"
       href: publications.html
+    - text: "CONTACT"
+      href: contact.html
+  right:
     - text: "cv"
       href: cv.html
-  right:
     - text: "scholar"
       href: https://scholar.google.com/citations?user=bpkWIywAAAAJ&hl=en&oi=ao # CHANGE HERE OR DELETE ALL 3 LINES 
     - text: ""
       icon: fa-github
       href: https://github.com/tncvasconcelos      # CHANGE HERE 
+
 output:
   html_document:
     css: style.css
