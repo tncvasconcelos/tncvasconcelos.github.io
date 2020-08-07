@@ -25,6 +25,6 @@ What underpins these questions is the inference of increasingly robust phylogene
 
 <center>
 
-![that's me looking at some awesome stamens of *Calothamnus* (Myrtaceae)](images/me.jpg){ width=40% }
+![That's me looking at some awesome stamens of *Calothamnus* (Myrtaceae)](images/me.jpg){ width=40% }
 
 </center>
