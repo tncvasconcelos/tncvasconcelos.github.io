@@ -13,6 +13,3 @@ title:   ""
 
 </center>
   
-  
-![](images/index-02.jpg){ width=100% }  
-
