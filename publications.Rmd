@@ -10,18 +10,18 @@ title: ""
   
 ## **2020**
 
+
 Proença CEB, Faria JEQ, Giaretta A, Lucas EJ, Staggemeier VS, Tuler AC, **Vasconcelos TNC**. 2020. Nomenclatural and taxonomic changes in tribe Myrteae (Myrtaceae) spurred by molecular phylogenies *Heringeriana* 14(1): 49−61. <a href="papers/Proencaet al_2020_Nomenclatural changes in Myrteae.pdf#" class="download" style="color:black" title="">[get PDF]</a>	
   
+<div style= "float:left;top: -0px;position: relative; padding:10px; width:200px; margin: 10px 10px">
+![](images/proceedings_2020.jpg){}
+
+</div>  
+
 Colli-Silva M, Reginato M, Cabral A, Forzza RC, Pirani JR, **Vasconcelos TNC**. 2020. Evaluating shortfalls in biodiversity documentation for the Atlantic Forest, the most diverse and threatened Brazilian phytophysiognomic domain. *Taxon* - 10.1002/tax.12239 <a href="papers/ColliSilvaetal2020_shortfalls.pdf#" class="download" style="color:black" title="">[get PDF]</a>	
 
 Sperotto P, Acevedo-Rodríguez P, **Vasconcelos TNC**, Roque N. 2020. Towards a standardization of the terminology for the climbing habit in plants. *The Botanical Review* - 10.1007/s12229-020-09218-y <a href="papers/Sperottoetal2020_climbers.pdf#" class="download" style="color:black" title="">[get PDF]</a>
 
-
-
-<div style= "float:right;top: -0px;position: relative; padding:10px; width:200px; margin: 10px 10px">
-![](images/jbi_humboldt.jpg){}
-
-</div>
   
 Reginato M, **Vasconcelos TNC**, Kriebel R, Simões A. 2020. Is dispersal mode a driver of diversification and geographical distribution in the diverse tropical plant family Melastomataceae? *Molecular Phylogenetics and Evolution* 106815 - 10.1016/j.ympev.2020.106815 <a href="papers/Reginatoetal2020_melas.pdf#" class="download" style="color:black" title="">[get PDF]</a>
   
@@ -37,7 +37,12 @@ Aguiar A, Melo G, **Vasconcelos TNC**, Goncalves R, Giuliano L, Martins A. 2020.
 ___
 ## **2019**
 
-Lucas EL, Holst B, Sobral M, Mazine FF, Nic Lughadha EM, Proença CEB, **Vasconcelos TNC**. 2019. A new infra-generic classification of the predominantly South American tribe Myrteae (Myrtaceae) *Systematic Botany* 44(3): 560–569. - 10.1600/036364419X15620113920608 <a href="papers/Lucasetal2018_myrcia.pdf#" class="download" style="color:black" title="">[get PDF]</a> 
+<div style= "float:right;top: -0px;position: relative; padding:10px; width:200px; margin: 10px 10px">
+![](images/jbi_humboldt.jpg){}
+
+</div>
+
+Lucas EL, Holst B, Sobral M, Mazine FF, Nic Lughadha EM, Proença CEB, **Vasconcelos TNC**. 2019. A new infra-generic classification of the predominantly South American tribe Myrteae (Myrtaceae) *Systematic Botany* 44(3): 560–569. - 10.1600/036364419X15620113920608 <a href="papers/Lucasetal2019_myrteaesubtribes.pdf#" class="download" style="color:black" title="">[get PDF]</a> 
 
 **Vasconcelos TNC**, Prenner G, Lucas EJ 2019. A systematic overview of floral diversity in Myrteae (Myrtaceae). *Systematic Botany* 44(3): 570–591. - 10.1600/036364419X15620113920617 <a href="papers/Vasconcelosetal2019_myrteaeflowers.pdf#" class="download" style="color:black" title="">[get PDF]</a> 
 
@@ -51,7 +56,7 @@ Giaretta A, **Vasconcelos TNC**, Mazine FF, Faria JEQ, Flores R, Holst B, Sano P
 
 </div>
 
-Amorim BS, **Vasconcelos TNC**, Souza G, Alves M, Antonelli A, Lucas E. 2019. Advanced understanding of phylogenetic relationships, morphological evolution and biogeographic history of the mega-diverse plant genus *Myrcia* and its relatives (Myrtaceae: Myrteae). *Molecular Phylogenetics and Evolution* 138, 65–88. - 10.1016/j.ympev.2019.05.014 <a href="papers/Almeidaetal2020_myrcialucasae.pdf#" class="download" style="color:black" title="">[get PDF]</a>
+Amorim BS, **Vasconcelos TNC**, Souza G, Alves M, Antonelli A, Lucas E. 2019. Advanced understanding of phylogenetic relationships, morphological evolution and biogeographic history of the mega-diverse plant genus *Myrcia* and its relatives (Myrtaceae: Myrteae). *Molecular Phylogenetics and Evolution* 138, 65–88. - 10.1016/j.ympev.2019.05.014 <a href="papers/Amorimetal2019_myrcia.pdf#" class="download" style="color:black" title="">[get PDF]</a>
   
 Nic Lughadha E, Staggemeier V, **Vasconcelos TNC**, Walker B, Canteiro C, Lucas E. 2019. Harnessing the potential of integrated systematics for the conservation of taxonomically complex, megadiverse plant groups. *Conservation Biology* 33, 511–522. - 10.1111/cobi.13289 <a href="papers/NicLughadhaetal2019_harnessing.pdf#" class="download" style="color:black" title="">[get PDF]</a>
 
