@@ -1,8 +1,11 @@
 ---
 title: ""
+output:
+  html_document:
+    includes:
+      in_header: cover2.html
 ---
 
-![](images/index.jpg){ width=100% }
 
 <style> body {text-align: justify} </style>
 #

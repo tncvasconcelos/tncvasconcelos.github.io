@@ -1,15 +1,7 @@
 ---
-title:   ""
-
+title: ""
+output:
+  html_document:
+    includes:
+      in_header: cover.html
 ---
-
-![](images/index1b.jpg){ width=100% } 
-  
-  
-<center>  
-  
-<font size="5">THAIS VASCONCELOS</font>
-
-
-</center>
-  
