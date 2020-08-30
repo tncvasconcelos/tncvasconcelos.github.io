@@ -1,13 +1,13 @@
-name: "YOURNAME"                                # CHANGE HERE 
+name: "Thais Vasconcelos"                                
 output_dir: "."
 navbar:
-  title: "Thais Vasconcelos"                             # CHANGE HERE 
+  title: "Thais Vasconcelos"                             
   font-size: 24
   theme: cosmo
   type: inverse
   left:
-    - text: "HOME"
-      href: index.html
+#    - text: "HOME"
+#      href: index.html
     - text: "RESEARCH"
       href: about.html
     - text: "PUBLICATIONS"
