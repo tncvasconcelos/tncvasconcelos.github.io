@@ -9,7 +9,7 @@ navbar:
 #    - text: "HOME"
 #      href: index.html
     - text: "RESEARCH"
-      href: about.html
+      href: index.html
     - text: "PUBLICATIONS"
       href: publications.html
     - text: "CONTACT"
