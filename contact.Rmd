@@ -1,10 +1,8 @@
 ---
 title: ""
-output:
-  html_document:
-    includes:
-      in_header: cover2.html
+
 ---
+<div><img src="images/contact.jpg" width="100%" align="center"></div>
 
 
 <style> body {text-align: justify} </style>

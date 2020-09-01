@@ -1,15 +1,12 @@
 ---
 title: ""
-output:
-  html_document:
-    includes:
-      in_header: cover2.html
----
 
-<style> body {text-align: justify} </style>
-#
-<font size="5.5">Traits, distribution and diversification</font>
-  
+---
+<div><img src="images/home.jpg" width="100%" align="center"></div>  
+<style> body {text-align: justify} </style>  
+#  
+#  
+
 I am a botanist with a great passion for evolutionary biology and biogeography. My daily work consists of investigating (1) why plant species are where they are and look how they look and then (2) why some areas and clades are much more species-rich than others.
   
 Because these questions are multidisciplinary in nature, I have combined three main lines of research along my career to address them (see also [publications](tncvasconcelos.github.io/publications.html) for examples).  
@@ -27,6 +24,6 @@ What underpins these questions is the inference of increasingly robust phylogene
 
 <center>
 
-![That's me looking at some awesome stamens of *Calothamnus* (Myrtaceae)](images/me.jpg){ width=40% }
+![That's me looking at some awesome stamens of *Calothamnus* (Myrtaceae)](images/me.jpg){ width=70% }
 
 </center>

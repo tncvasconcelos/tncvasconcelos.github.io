@@ -8,15 +8,18 @@ navbar:
   left:
 #    - text: "HOME"
 #      href: index.html
-    - text: "RESEARCH"
+    - text: "Research"
       href: index.html
-    - text: "PUBLICATIONS"
+    - text: "Students"
+      href: students.html
+    - text: "Publication"
       href: publications.html
-    - text: "CONTACT"
-      href: contact.html
-  right:
-    - text: "cv"
+    - text: "CV"
       href: cv.html
+    - text: "Contact"
+      href: contact.html
+
+  right:
     - text: "scholar"
       href: https://scholar.google.com/citations?user=bpkWIywAAAAJ&hl=en&oi=ao # CHANGE HERE OR DELETE ALL 3 LINES 
     - text: ""

@@ -1,16 +1,14 @@
 ---
 title: ""
-output:
-  html_document:
-    includes:
-      in_header: cover2.html
+
 ---
+<div><img src="images/cv.jpg" width="100%" align="center"></div>
 
 
 <style> body {text-align: justify} </style>
 #
   
-# Qualifications and Appointments
+# Qualifications
 
 - BSc - Universidade de Brasilia (Brazil), 2007 - 2011  
 - MSc - Universidade de Brasilia (Brazil), 2011 - 2013  
@@ -23,7 +21,31 @@ output:
 - Plant Systematics and Evolution, 2019 - present  
 - Botanical Journal of the Linnean Society, 2020 - present  
  
- 
- 
+# Teaching
+
+- Systematic Botany – undergraduate course  
+Universidade de Brasilia, Brazil – 2012  
+(Teaching Assistant)  
+  
+- Ecology and evolution of plant-pollinator interactions – short course  
+Universidade de Brasilia, Brazil – 2018  
+(Instructor)  
+  
+- Macroevolution – part of the graduate course in “Molecular ecology”  
+UNESP Rio claro, Brazil – 2018  
+(Instructor)  
+  
+- Biogeography of the Neotropical region – short course  
+Unicamp, Brazil – 2018  
+(Instructor)  
+  
+- Biogeography and diversification of the Neotropical biota - undergraduate course  
+Universidade de São Paulo, Brazil – 2019  
+(Teaching Assistant)  
+  
+  
+    
+# CV  
+For a complete list of invited talks, grants and other qualifications, see my CV on the link below.
   
 <a href="TVasconcelos_CV_July_2020.pdf#" class="download" style="color:blue" title="Download CV as PDF">Download my complete CV here</a>	
