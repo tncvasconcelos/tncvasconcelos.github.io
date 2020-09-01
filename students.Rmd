@@ -16,7 +16,8 @@ title: ""
   
 <font size="4">MSc. Lílian Melo</font>  
 (UFU, Brazil)  
-Lílian is a PhD student in ecology with a great interest in plant-pollinator interactions and macroevolutionary questions related to this topic. Currently, her research is mainly focused on the classification, evolution and distribution of species with pollen flowers. lilian.melo@ufu.br
+Lílian is a PhD student in ecology with a great interest in plant-pollinator interactions and macroevolutionary questions related to this topic. Currently, her research is mainly focused on the classification, evolution and distribution of species with pollen flowers. lilian.melo@ufu.br | [Lilian's Google Scholar](https://scholar.google.com.br/citations?hl=pt-BR&user=EpdBsl4AAAAJ)
+  
 </div>  
 
 <div style= "float:right;right: 50px;top: -0px;position: relative; padding:-40px; width:260px; margin: -0px 90px">
@@ -24,7 +25,7 @@ Lílian is a PhD student in ecology with a great interest in plant-pollinator in
   
 <font size="4">MSc. Patricia Sperotto </font>  
 (UEFS, Brazil)  
-Patrícia is a botanist whose research focuses primarily on climbing plants. In her MSc, she revised the terminology used to describe the climbing habit and explored the role of climbing mechanisms in the distribution and diversification of neotropical climbing plants. She is currently looking for a PhD to further develop her skills in macroevolution, phylogenetic comparative methods and biogeography. patriciassperotto@gmail.com  
+Patrícia is a botanist whose research focuses primarily on climbing plants. In her MSc, she revised the terminology used to describe the climbing habit and explored the role of climbing mechanisms in the distribution and diversification of neotropical climbing plants. She is currently looking for a PhD to further develop her skills in macroevolution, phylogenetic comparative methods and biogeography. patriciassperotto@gmail.com | [Patricia's twitter](https://twitter.com/P_Sperotto) | [Patricia's ResearchGate](https://www.researchgate.net/profile/Patricia_Sperotto)
   
 </div>  
 <center>
@@ -39,7 +40,7 @@ Patrícia is a botanist whose research focuses primarily on climbing plants. In 
 
 <font size="4">Mirian Antonicelli</font>  
 (USP, Brazil)  
-Mirian is an undergraduate student in Biology and passionate about evolution and the mechanisms behind species diversity and distribution. She is currently investigating how biome shifts affect traits in a lineage of plants, using the morphological evolution in leaves of the genus *Pleroma* (Melastomataceae) as a study case. She is also very interested in education and conservation. mirian.antonicelli@usp.br 
+Mirian is an undergraduate student in Biology and passionate about evolution and the mechanisms behind species diversity and distribution. She is currently investigating how biome shifts affect traits in a lineage of plants using the morphological evolution in leaves of the genus *Pleroma* (Melastomataceae) as a study case. She is also very interested in education and conservation. mirian.antonicelli@usp.br 
 
 </div>
 <div style= "float:right;top: -0px;right: 50px;position: relative; padding:-40px; width:260px; margin: -0px 90px">  
@@ -47,7 +48,7 @@ Mirian is an undergraduate student in Biology and passionate about evolution and
   
 <font size="4">Raquel Pizzardo</font>  
 (USP, Brazil)  
-Raquel is an undergraduate student in Biology working with species distribution modelling and approaches to combine evolutionary history with conservation policies. She is interested to explore the relationship between geographical distribution, evolutionary processes and diversification, focusing on “sky island” systems and expanding this knowledge to analyses of conservation. raquelcp@usp.br 
+Raquel is an undergraduate student in Biology working with species distribution modelling and approaches to combine evolutionary history with conservation policies. She is interested to explore the relationship between geographical distribution, evolutionary processes and diversification, focusing on “sky island” systems and expanding this knowledge to analyses of conservation. raquel.pizzardo@gmail.com | [Raquel's twitter](https://twitter.com/RPizzardo) | [Raquel's website](https://rpizzardo.github.io)
 
 </div>  
 
