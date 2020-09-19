@@ -10,9 +10,9 @@ navbar:
 #      href: index.html
     - text: "Research"
       href: index.html
-    - text: "Students"
+    - text: "People"
       href: students.html
-    - text: "Publication"
+    - text: "Publications"
       href: publications.html
     - text: "CV"
       href: cv.html
