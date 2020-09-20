@@ -11,21 +11,21 @@ title: ""
 <style> body {text-align: center} </style>  
 
   
-<div style= "float:left;left: 20px;top: 0px;position: relative;padding: 0px; width:260px; margin: 0px 0">
-![](images/lilian.jpg){}  
-  
-<font size="4">Lílian Melo, MSc</font>  
-(UFU, Brazil)  
-Lílian is a PhD student in ecology with a great interest in plant-pollinator interactions and macroevolutionary questions related to this topic. Currently, her research is mainly focused on the classification, evolution and distribution of species with pollen flowers. lilian.melo@ufu.br | [Lilian's Google Scholar](https://scholar.google.com.br/citations?hl=pt-BR&user=EpdBsl4AAAAJ)
-  
-</div>  
-
-<div style= "float:left;left: 65px;top: -0px;position: relative; padding: 0px; width:260px; margin: -0px 0px">
+<div style= "float:left;left: 20px;top: 0px;position: relative; padding: 0px; width:260px; margin: 0px 65px 0px 0px">
 ![](images/sandra.jpg){}  
   
 <font size="4">Sandra Reinales, MSc</font>  
 (ICN-UN, Colombia)  
 Sandra is a botanist interested in systematics, biogeography and morphological evolution, in a macroevolutionary context. Currently, Sandra is a PhD student at USP (Brazil), where she studies diversification dynamics in the tribe Sauvagesieae (Ochnaceae). She is testing some mechanisms (e.g. dispersal capacity) that could explain the unbalanced species richness and the recent geographical distribution of Neotropical Ochnaceae, focusing on the montane areas of South America. In her spare time Sandra is also interested in historical collections of colombian botanists. spreinales@gmail.com | [Sandra's Research Gate](https://www.researchgate.net/profile/Sandra_Reinales) | [Sandra's Twitter](https://twitter.com/spreinales)
+  
+</div>  
+
+<div style= "float:left;left: 0px;top: 0px;position: relative;padding: 0px; width:260px; margin: 0px 0px 0px 0px">
+![](images/lilian.jpg){}  
+  
+<font size="4">Lílian Melo, MSc</font>  
+(UFU, Brazil)  
+Lílian is a PhD student in ecology with a great interest in plant-pollinator interactions and macroevolutionary questions related to this topic. Currently, her research is mainly focused on the classification, evolution and distribution of species with pollen flowers. lilian.melo@ufu.br | [Lilian's Google Scholar](https://scholar.google.com.br/citations?hl=pt-BR&user=EpdBsl4AAAAJ)
   
 </div>  
 
@@ -47,18 +47,18 @@ Andressa is a botanist interested in systematics, biogeography and evolution of 
 </center>
 
 
-<div style= "float:left;top: -0px;left: 20px;position: relative; padding: 0px; width:260px; margin: -0px 0px">
+<div style= "float:left;top: -0px;left: 20px;position: relative; padding: 0px; width:260px; margin: 0px 65px 0px 0px">
 ![](images/tita.jpg){}  
   
 
 <font size="4">Patricia Sperotto, MSc</font>  
 (UEFS, Brazil)  
-Patrícia is a botanist whose research focuses primarily on climbing plants. In her MSc, she revised the terminology used to describe the climbing habit and explored the role of climbing mechanisms in the distribution and diversification of neotropical climbing plants. She is currently looking for a PhD to further develop her skills in macroevolution, phylogenetic comparative methods and biogeography. patriciassperotto@gmail.com | [Patricia's twitter](https://twitter.com/P_Sperotto) | [Patricia's ResearchGate](https://www.researchgate.net/profile/Patricia_Sperotto) 
+Patrícia is a botanist whose research focuses primarily on climbing plants. In her MSc, she revised the terminology used to describe the climbing habit and explored the role of climbing mechanisms (e.g., tendrils, twining stems, prehensile petioles) in the evolution, diversification and distribution of neotropical climbing plants. She is currently looking for a PhD to further develop her skills in macroevolution, phylogenetic comparative methods and biogeography. patriciassperotto@gmail.com | [Patricia's twitter](https://twitter.com/P_Sperotto) | [Patricia's ResearchGate](https://www.researchgate.net/profile/Patricia_Sperotto) 
 
 </div>  
 
 
-<div style= "float:left;top: -0px;left: 65px;position: relative; padding: 0px; width:260px; margin: -0px 0px">  
+<div style= "float:left;top: -0px;left: 0px;position: relative; padding: 0px; width:260px; margin: -0px 0px">  
 ![](images/mirtilo.jpg){}  
   
 <font size="4">Mirian Antonicelli</font>  
@@ -74,6 +74,7 @@ Mirian is an undergraduate student in Biology and passionate about evolution and
 <font size="4">Raquel Pizzardo</font>  
 (USP, Brazil)  
 Raquel is an undergraduate student in Biology working with species distribution modelling and approaches to combine evolutionary history with conservation policies. She is interested to explore the relationship between geographical distribution, evolutionary processes and diversification, focusing on “sky island” systems and expanding this knowledge to analyses of conservation. raquel.pizzardo@gmail.com | [Raquel's twitter](https://twitter.com/RPizzardo) | [Raquel's website](https://rpizzardo.github.io)
+
 
 </div>
 <div style= "float:right;top: -0px;right: 50px;position: relative; padding:-40px; width:260px; margin: -0px 90px">  

@@ -11,7 +11,7 @@ navbar:
     - text: "Research"
       href: index.html
     - text: "People"
-      href: students.html
+      href: people.html
     - text: "Publications"
       href: publications.html
     - text: "CV"
