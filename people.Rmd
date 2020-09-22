@@ -25,7 +25,8 @@ Sandra is a botanist interested in systematics, biogeography and morphological e
   
 <font size="4">Lílian Melo, MSc</font>  
 (UFU, Brazil)  
-Lílian is a PhD student in ecology with a great interest in plant-pollinator interactions and macroevolutionary questions related to this topic. Currently, her research is mainly focused on the classification, evolution and distribution of species with pollen flowers. lilian.melo@ufu.br | [Lilian's Google Scholar](https://scholar.google.com.br/citations?hl=pt-BR&user=EpdBsl4AAAAJ)
+Lílian is a PhD student in ecology with a great interest in plant-pollinator interactions and macroevolutionary questions related to this topic. Currently, her research is mainly focused on the classification, evolution and distribution of species with pollen flowers. lilian.melo@ufu.br | [Lilian's Google Scholar](https://scholar.google.com.br/citations?hl=pt-BR&user=EpdBsl4AAAAJ) | [Lilian's Twitter](https://twitter.com/LilianRFMelo) | [Lilian's ResearchGate](https://www.researchgate.net/profile/Lilian_Rodrigues_Ferreira_De_Melo) 
+
   
 </div>  
 
@@ -40,14 +41,23 @@ Andressa is a botanist interested in systematics, biogeography and evolution of 
 
 </div>  
 
-<center>
+<center>  
 
-![](){ width=70% }
+![](){ width=70% }  
 
-</center>
+</center>  
 
+<div style= "float:left;top: -0px;right: 0px;position: fixed; padding:0px; width:100px; margin: -0px 0px">  
+![](images/blank.jpg){}  
+</div>  
 
-<div style= "float:left;top: -0px;left: 20px;position: relative; padding: 0px; width:260px; margin: 0px 65px 0px 0px">
+<center>  
+
+![](){ width=70% }  
+
+</center>  
+
+<div style= "float:left;top: -0px;left: 20px;position: relative; padding: 0px; width:260px; margin: 0px 65px 0px 0px">  
 ![](images/tita.jpg){}  
   
 
@@ -77,8 +87,7 @@ Raquel is an undergraduate student in Biology working with species distribution 
 
 
 </div>
-<div style= "float:right;top: -0px;right: 50px;position: relative; padding:-40px; width:260px; margin: -0px 90px">  
-![](images/blank.jpg){}  
+
   
 <font size="4"> </font>  
 
