@@ -30,37 +30,24 @@ Lílian is a PhD student in ecology with a great interest in plant-pollinator in
   
 </div>  
 
-
 <div style= "float:right;top: -0px;right: 20px;position: relative; padding: 0px; width:260px; margin: -0px 0px">
 ![](images/andressa.jpg){}  
   
-
 <font size="4">Andressa Cabral, MSc</font>  
 (USP, Brazil)  
 Andressa is a botanist interested in systematics, biogeography and evolution of plants in island-like systems. In her MSc, she studied biogeography, morphological diversity and phylogenetic relationships in *Barbacenia* (Velloziaceae), a disjunct lineage in *campo rupestre* and Atlantic Forest inselberg. She also performed a taxonomic revision for a *Barbacenia* Atlantic Forest inselberg clade. In her PhD, she will study diversification dynamics and disjunct distribution of plant biodiversity in Neotropical mountains using *Agarista* and *Gaylussacia* (Ericaceae) as a model. acabral@outlook.com.br | [Andressa's Google Scholar](https://scholar.google.com/citations?hl=pt-BR&user=Q1WLkxYAAAAJ) | [Andressa's ResearchGate](https://www.researchgate.net/profile/Andressa_Cabral3) 
 
-</div>  
+</div>
 
-<center>  
 
-![](){ width=100% }  
-
-</center>  
-
-<div style= "float:left;top: 0px;left: 100px;position: relative; padding:0px; width:100px; margin: 0px 100px 0px 0px">
+<div style= "float:left;top: 0px;left: 0px;position: relative; padding:0px; width:2000px; margin: 0px 500px 0px 0px">
 ![](images/blank.jpg){}  
-</div>  
+</div>
 
-<center>  
-
-![](){ width=100% }  
-
-</center>  
 
 <div style= "float:left;top: -0px;left: 20px;position: relative; padding: 0px; width:260px; margin: 0px 65px 0px 0px">  
 ![](images/tita.jpg){}  
   
-
 <font size="4">Patrícia Sperotto, MSc</font>  
 (UEFS, Brazil)  
 Patrícia is a botanist whose research focuses primarily on climbing plants. In her MSc, she revised the terminology used to describe the climbing habit and explored the role of climbing mechanisms (e.g., tendrils, twining stems, prehensile petioles) in the evolution, diversification and distribution of neotropical climbing plants. She is currently looking for a PhD to further develop her skills in macroevolution, phylogenetic comparative methods and biogeography. patriciassperotto@gmail.com | [Patricia's twitter](https://twitter.com/P_Sperotto) | [Patricia's ResearchGate](https://www.researchgate.net/profile/Patricia_Sperotto) 
@@ -90,3 +77,9 @@ Raquel is an undergraduate student in Biology working with species distribution 
 
   
 <font size="4"> </font>  
+<center>  
+
+![](){ width=100% }  
+
+</center>  
+
