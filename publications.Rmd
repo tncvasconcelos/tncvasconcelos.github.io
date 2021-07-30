@@ -7,8 +7,22 @@ title: ""
 #  
 #  
 <font size="5.5">Peer-reviewed articles</font>
+
+## **2021** 
   
-## **2020**
+Maurin O, Anest A, Bellot S, Biffin E, Brewer G, Charles-Dominique T, Dodsworth S, Epitawalage N, Gallego B, Giaretta A, Goldenberg R, Gonçalves DJP, Graham S, Hoch P, Mazine F, Low YW, McGinnie C, Michelangeli FA, Morris S, Penneys DS, Pérez Escobar OA, Pillon Y, Pokorny L, Shimizu G, Staggemeier VG, Thornhill A, Tomlinson KW, Turner I, **Vasconcelos TNC**, Wilson PG, Zuntini AR, Baker WJ, Forest F, Lucas E. (in review) A nuclear phylogenomic study of the angiosperm order Myrtales, exploring the potential and limitations of the universal Angiosperms353 probe set. *American Journal of Botany*  <a href="papers/Maurinetal2021_myrtales.pdf#" class="download" style="color:black" title="">[get PDF]</a>	
+  
+Dantas M, Leal B, Chaves C, **Vasconcelos TNC**, Versieux L, Palma-Silva C. (in review) Underlying microevolutionary processes parallel macroevolutionary patterns in ancient Neotropical Mountains. *Journal of Biogeography* <a href="papers/Dantas-Queiroz_etal2021_micromacro.pdf#" class="download" style="color:black" title="">[get PDF]</a>
+  
+Melo LRF, **Vasconcelos TNC**, Reginato M, Caetano AP, Brito VLG. 2021. Evolution of stamen dimetrism in Melastomataceae, a large radiation of pollen flowers. *Perspectives in Plant Ecology Evolution and Systematics* <a href="papers/Meloetal2021_stamens.pdf#" class="download" style="color:black" title="">[get PDF]</a>
+  
+Lovo J, Alcantara S, **Vasconcelos TNC**, Sajo MC, Rudall PJ, Prenner G, Aguiar AJC, Mello-Silva R. 2021. Floral heterochrony and pollination biology in Trimezieae (Iridaceae): implications for evolutionary lability. *American Journal of Botany* <a href="papers/Lovoetal2021_trimezieae.pdf#" class="download" style="color:black" title="">[get PDF]</a>
+
+Rosa PO, **Vasconcelos TNC**, Lucas EJ, Proença CEB. (submitted) Revisiting Glaziou and the Botany of the second Cruls Mission: three new species and 23 accepted species of Myrcia (Myrtaceae) collected from Goiás, Brazil and a detailed description of his “Goyaz” itinerary. *Phytotaxa* <a href="papers/Rosaetal2021_glaziou.pdf#" class="download" style="color:black" title="">[get PDF]</a>
+  
+  
+___
+## **2020**  
 
 
 Proença CEB, Faria JEQ, Giaretta A, Lucas EJ, Staggemeier VS, Tuler AC, **Vasconcelos TNC**. 2020. Nomenclatural and taxonomic changes in tribe Myrteae (Myrtaceae) spurred by molecular phylogenies *Heringeriana* 14(1): 49−61. <a href="papers/Proencaet al_2020_Nomenclatural changes in Myrteae.pdf#" class="download" style="color:black" title="">[get PDF]</a>	
@@ -18,9 +32,9 @@ Proença CEB, Faria JEQ, Giaretta A, Lucas EJ, Staggemeier VS, Tuler AC, **Vasco
 
 </div>  
 
-Colli-Silva M, Reginato M, **Cabral A**, Forzza RC, Pirani JR, **Vasconcelos TNC**. 2020. Evaluating shortfalls in biodiversity documentation for the Atlantic Forest, the most diverse and threatened Brazilian phytophysiognomic domain. *Taxon* - 10.1002/tax.12239 <a href="papers/ColliSilvaetal2020_shortfalls.pdf#" class="download" style="color:black" title="">[get PDF]</a>	
+Colli-Silva M, Reginato M, Cabral A, Forzza RC, Pirani JR, **Vasconcelos TNC**. 2020. Evaluating shortfalls in biodiversity documentation for the Atlantic Forest, the most diverse and threatened Brazilian phytophysiognomic domain. *Taxon* - 10.1002/tax.12239 <a href="papers/ColliSilvaetal2020_shortfalls.pdf#" class="download" style="color:black" title="">[get PDF]</a>	
 
-**Sperotto P**, Acevedo-Rodríguez P, **Vasconcelos TNC**, Roque N. 2020. Towards a standardization of the terminology for the climbing habit in plants. *The Botanical Review* - 10.1007/s12229-020-09218-y <a href="papers/Sperottoetal2020_climbers.pdf#" class="download" style="color:black" title="">[get PDF]</a>
+Sperotto P, Acevedo-Rodríguez P, **Vasconcelos TNC**, Roque N. 2020. Towards a standardization of the terminology for the climbing habit in plants. *The Botanical Review* - 10.1007/s12229-020-09218-y <a href="papers/Sperottoetal2020_climbers.pdf#" class="download" style="color:black" title="">[get PDF]</a>
 
   
 Reginato M, **Vasconcelos TNC**, Kriebel R, Simões A. 2020. Is dispersal mode a driver of diversification and geographical distribution in the diverse tropical plant family Melastomataceae? *Molecular Phylogenetics and Evolution* 106815 - 10.1016/j.ympev.2020.106815 <a href="papers/Reginatoetal2020_melas.pdf#" class="download" style="color:black" title="">[get PDF]</a>
