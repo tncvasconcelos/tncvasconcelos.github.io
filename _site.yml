@@ -10,8 +10,8 @@ navbar:
 #      href: index.html
     - text: "Research"
       href: index.html
-#    - text: "People"
-#      href: people.html
+    - text: "People"
+      href: people.html
     - text: "Publications"
       href: publications.html
     - text: "CV"
