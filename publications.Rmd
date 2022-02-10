@@ -7,8 +7,27 @@ title: ""
 #  
 #  
 <font size="5.5">Peer-reviewed articles</font>
+ 
+## **2022**   
+   
+Souza-Neto JD, Dos Santos EK, Lucas E, Vetö NM, Barrientos-Diaz O, Staggemeier VG, **Vasconcelos TNC**, Turchetto-Zolet AC 2022. Advances and perspectives on the evolutionary history and diversification of Neotropical Myrteae (Myrtaceae). *Botanical Journal of the Linnean Society*. <a href="papers/SouzaNeto_et_al_2022_BJLS.pdf#" class="download" style="color:black" title="">[get PDF]</a>
 
+**Vasconcelos TNC**, O’Meara BC, Beaulieu JM. 2022. Retiring “cradles” and “museums” of biodiversity. *The American Naturalist*, 199(2), 194-205. <a href="papers/Vasconcelos_et_al_2022_AmNat.pdf#" class="download" style="color:black" title="">[get PDF]</a>
+
+Proença CEB, Tuler AC, Lucas EJ, **Vasconcelos TNC**, Faria JEQ, Staggemeier VG, de-Carvalho PS, Forni-Martins ER, Inglis PW, Mata LR, Costa IR. 2022. Diversity, Phylogeny and Evolution of the rapidly evolving genus *Psidium* L.(Myrtaceae, Myrteae). *Annals of Botany*. <a href="papers/Proenca_et_al_2022_AoB.pdf#" class="download" style="color:black" title="">[get PDF]</a>
+
+BFG. **Vasconceos TNC**. 2021. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. *Taxon*. <a href="papers/BFG_2022_Taxon.pdf#" class="download" style="color:black" title="">[get PDF]</a>
+  
+  
+___
 ## **2021** 
+  
+
+**Vasconcelos TNC**, Boyko JD, Beaulieu JM. 2021. Linking mode of seed dispersal and climatic niche evolution in flowering plants. *Journal of Biogeography*. <a href="papers/Journal of Biogeography - 2021 - Vasconcelos - Linking mode of seed dispersal and climatic niche evolution in flowering.pdf#" class="download" style="color:black" title="">[get PDF]</a>
+  
+Santos LL, Forest F, Lima DF, Sales MF, **Vasconcelos TNC**, Staggemeier VG, Lucas E. 2021. Phylogenetic and Biogeographic Analysis in *Myrcia* Sect. *Myrcia* (*Myrcia* sl, Myrtaceae) with Focus on Highly Polyphyletic Myrcia splendens. *International Journal of Plant Sciences*, 182(9), 778-792. <a href="papers/Three_newspp.pdf#" class="download" style="color:black" title="">[get PDF]</a>
+  
+Santos LL, **Vasconcelos TNC**, Sales MF, Lucas E. 2021. Three new species of *Myrcia* sect. *Myrcia* (Myrtaceae) from South America. *Phytotaxa*, 520(3), 249-256. <a href="papers/Santos_et_al_2021_IJPS.pdf#" class="download" style="color:black" title="">[get PDF]</a>
   
 Maurin O, Anest A, Bellot S, Biffin E, Brewer G, Charles-Dominique T, Dodsworth S, Epitawalage N, Gallego B, Giaretta A, Goldenberg R, Gonçalves DJP, Graham S, Hoch P, Mazine F, Low YW, McGinnie C, Michelangeli FA, Morris S, Penneys DS, Pérez Escobar OA, Pillon Y, Pokorny L, Shimizu G, Staggemeier VG, Thornhill A, Tomlinson KW, Turner I, **Vasconcelos TNC**, Wilson PG, Zuntini AR, Baker WJ, Forest F, Lucas E. 2021. A nuclear phylogenomic study of the angiosperm order Myrtales, exploring the potential and limitations of the universal Angiosperms353 probe set. *American Journal of Botany* 108(7): 1087-1111 10.1002/ajb2.1699 <a href="papers/Maurinetal2021_myrtales.pdf#" class="download" style="color:black" title="">[get PDF]</a>	
   
