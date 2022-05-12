@@ -1,10 +1,10 @@
-#name: "Thais Vasconcelos"                                
-#output_dir: "."
+name: "Thais Vasconcelos"                                
+output_dir: "."
 navbar:
-#  title: "Thais Vasconcelos"                             
-#  font-size: 24
-#  theme: cosmo
-#  type: inverse
+  title: "Thais Vasconcelos"                             
+  font-size: 24
+  theme: cosmo
+  type: inverse
   left:
 #    - text: "HOME"
 #      href: index.html
