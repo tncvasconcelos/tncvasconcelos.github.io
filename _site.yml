@@ -32,6 +32,6 @@ navbar:
 
 output:
   html_document:
-    css: style.css
-    highlight: textmate
+  #  css: style.css
+  #  highlight: textmate
     
