@@ -1,0 +1,33 @@
+---
+title: ""
+
+---
+<div><img src="images/research.jpg" width="100%" align="center"></div>
+
+
+<style> body {text-align: justify} </style>
+#
+  
+  
+The need to consider multiple factors in an integrative framework when interpreting plant biogeographical patterns is the driver of our current research goals. Through the next five years (2022-2027), we will be working on three main lines of research: 
+
+(1) New methods for biodiversity documentation in time and space. Currently, I am working on developing and testing new models that focus on diversification estimates close to the present, rather than deep in time, and that assume an explicit correlation between speciation and extinction rates. This work is at final stages of preparation and will be soon submitted to the journal Methods in Ecology and Evolution. I also have a recently accepted perspective paper at the journal The American Naturalist that explains in more detail the biological assumptions followed by this model (Fig. 1; Vasconcelos et al. in press). 
+
+(2) Environmental correlates of plant functional traits. In this line, I build upon the methods developed in line 1 to map flowering plant diversification rates in space and to define which environmental variables best correlate with changes in speciation and extinction rates. Several of the students I mentor are also working on similar projects looking at spatial distribution of specific functional traits, such as pollen flowers, polyploidy, climbing habit, and leaf trichomes. 
+
+(3) Dispersal dynamics in flowering plants. 
+ document the general patterns of trans-oceanic dispersal between continents in recent time slices using biogeographical models that also account for variation in diversification rates between lineages. 
+ 
+Second, I will evaluate how different modes of seed dispersal influence rates of movements between continents and biome shifts. This comes from the principle that plants are sessile, and so to understand their movement in space over time it is important to understand the evolution of different modes of propagule dispersal. For example, we have recently tested and found support for the hypothesis that lineages dispersed by frugivores may tend to present slower rates of climatic niche evolution than those dispersed by abiotic factors, because seeds dispersed by animals are more likely to be carried to similar habitats as the parental plant1.
+
+
+In this project I will use newly developed models that link trait evolution and biogeography to test the hypothesis that “it is easier to move than to evolve” -- that is, dispersal events between areas with similar niches are more frequent than evolution of functional traits necessary to colonize different niches. Future developments in this project will require collection of new data, especially to fill gaps in datasets of functional traits for groups in tropical areas. 
+
+
+I anticipate initially submitting a proposal of this work to the NSF’s Rules of Life (ROL) program in my first year as Assistant Professor. I also plan to use new funding sources and my extensive network of collaborators in the tropics to identify and further fill these gaps (i.e., submit proposals to NSF-DEB Systematics and Biodiversity Science Cluster). It is also important that, given the heterogeneity of evolution, many revealed biogeographical patterns may be clade specific and not a general rule for all flowering plants. Identifying what is a rule and what is an exception requires multiple natural replicates. For that reason, I am currently using a multi-clade approach where I recently compiled >100 empirical phylogenies of plant groups with good coverage of species sampled to test empirical questions in lines 2 and 3 and will extend this dataset as more phylogenetic data becomes available.
+  
+  
+Some of our collaborators:  
+  
+  https://nerpufu.wixsite.com/inicio/en
+  

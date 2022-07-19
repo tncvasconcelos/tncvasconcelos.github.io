@@ -1,0 +1,37 @@
+name: "Vasconcelos lab"                                
+output_dir: "."
+navbar:
+  title: "Vasconcelos lab"                             
+  font-size: 24
+  theme: cosmo
+  type: inverse
+  left:
+#    - text: "HOME"
+#      href: index.html
+    - text: "People"
+      href: people.html
+      #href: index.html
+    - text: "Publications"
+      href: publications.html
+#    - text: "CV"
+      #href: cv.html
+    - text: "Contact"
+      href: contact.html
+    - text: "Research"
+      href: index.html
+
+  right:
+    - text: "scholar"
+      href: https://scholar.google.com/citations?user=bpkWIywAAAAJ&hl=en&oi=ao 
+    - text: ""
+      icon: fa-github
+      href: https://github.com/tncvasconcelos   
+    - text: ""
+      icon: fa-twitter
+      href: https://twitter.com/TNCVasconcelos  
+
+output:
+  html_document:
+  #  css: style.css
+  #  highlight: textmate
+    

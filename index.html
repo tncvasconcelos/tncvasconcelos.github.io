@@ -11,7 +11,7 @@
 
 
 
-<title></title>
+<title>index.utf8</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -19,18 +19,31 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
-<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -43,32 +56,7 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
 
 
 
@@ -78,10 +66,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -98,40 +82,13 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 51px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h2 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h3 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h4 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h5 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h6 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -159,7 +116,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -171,7 +128,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -182,10 +139,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -197,7 +167,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -269,21 +238,15 @@ $(document).ready(function () {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">Thais Vasconcelos</a>
+      <a class="navbar-brand" href="index.html">Vasconcelos lab</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
-  <a href="index.html">Research</a>
-</li>
-<li>
-  <a href="index.html">People</a>
+  <a href="people.html">People</a>
 </li>
 <li>
   <a href="publications.html">Publications</a>
-</li>
-<li>
-  <a href="cv.html">CV</a>
 </li>
 <li>
   <a href="contact.html">Contact</a>
@@ -295,14 +258,14 @@ $(document).ready(function () {
 </li>
 <li>
   <a href="https://github.com/tncvasconcelos">
-    <span class="fa fa-github"></span>
+    <span class="fas fa-github"></span>
      
     
   </a>
 </li>
 <li>
   <a href="https://twitter.com/TNCVasconcelos">
-    <span class="fa fa-twitter"></span>
+    <span class="fas fa-twitter"></span>
      
     
   </a>
@@ -312,7 +275,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -321,18 +284,77 @@ $(document).ready(function () {
 
 
 <div>
-<img src="images/home.jpg" width="100%" align="center">
+<img src="images/home2.jpg" width="100%" align="center" >
 </div>
+<html>
+<head>
+<style>
+      h1 {text-align: center;}
+      body {text-align: center;}
+    </style>
+</head>
+<body>
+<h1>
+</h1>
+</body>
+</html>
+<div>
+<img src="images/blank.jpg" width="100%" align="center">
+</div>
+<p style="text-align:center;">
+<font size="3"> Welcome! </font>
+</p>
+<p style="text-align:center;">
+<font size="3"> We are botanists based at the Department of Ecology and Evolutionary Biology, University of Michigan - Ann Arbor! </font>
+</p>
+<div>
+<img src="images/blank.jpg" width="100%" align="center">
+</div>
+<h1>
+News
+</h1>
+July 18 2022<br />
+
+<p style="text-align:center;">
+<p><strong>I’m on the look out for grad students to join the lab in the Fall of 2023!</strong> I’m actively looking for grad students to join the recently started Vasconcelos lab at the EEB Department - University of Michigan. If you are passionate about plants, evolution, biogeography, natural history collections, or all of the above, this may be your place : )</p>
+<p><strong>The graduate school application deadline for the EEB Department is the 1st December (2022) for a Fall 2023 start</strong>. Please check <a href="https://lsa.umich.edu/eeb/graduates/prospective-students.html">this link</a> for more information about the program and <a href="https://lsa.umich.edu/eeb/graduates/prospective-students/eeb-application-information.html">this link</a> on how to apply.</p>
+<p>In our first years, we will be mainly focused on the two lines of research described below. Prospective students are encouraged to contact me at <a href="mailto:tvasc@umich.edu" class="email">tvasc@umich.edu</a> to start conversation about a potential alignment of interests before applying. It is not too early to begin a conversation about future projects!</p>
+<p>I will also be hiring a two-year postdoc to join the lab in 2023 – details on this position will be posted here soon.</p>
+</p>
+<div>
+<img src="images/blank.jpg" width="100%" align="center">
+</div>
+<h1>
+Our research
+</h1>
+<body>
 <style> body {text-align: justify} </style>
-<div id="section" class="section level1">
-<h1></h1>
+<p>Currently, our lab is focusing on two main lines of research:</p>
+<div style="float:left;top: -0px;position: relative; padding:10px; width:500px; margin: 10px 10px">
+<div class="figure">
+<img src="images/myrteae.jpg" alt="Phylogeny of Myrteae – in preparation with V. Staggemeier et al." />
+<p class="caption">Phylogeny of Myrteae – in preparation with V. Staggemeier et al.</p>
 </div>
-<div id="section-1" class="section level1">
-<h1></h1>
-<p>May 2022</p>
-<p>This page is temporarily down while I update some information.</p>
-<p>List of publications, CV, and contact are still available by clicking on the corresponding tabs.</p>
 </div>
+<p style="text-align:center;">
+<font size="4"> <strong>Systematics, evolution, and ecology of Myrtales</strong> </font>
+</p>
+<style> body {text-align: justify} </style>
+<p>We are interested in understanding evolution of plants in poorly studied tropical areas and groups, and to that end we have mainly focused on lineages within the order Myrtales (guavas, pomegranates, cloves). We have several collaborators based in Brazil and the UK working together on this line of research and there is plenty of opportunity for international collaboration and fieldwork for prospective students and postdocs.</p>
+<div>
+<img src="images/blank.jpg" width="100%" align="center">
+</div>
+<div style="float:right;top: -0px;position: relative; padding:10px; width:500px; margin: 10px 10px">
+<div class="figure">
+<img src="images/biogeo.jpg" alt="Linking seed dispersal traits and climatic niche evolution in plants - modified from Vasconcelos et al. (2021) J. Biogeography" />
+<p class="caption">Linking seed dispersal traits and climatic niche evolution in plants - modified from Vasconcelos et al. (2021) J. Biogeography</p>
+</div>
+</div>
+<p style="text-align:center;">
+<font size="4"> <strong>Discovering the rules of plant biogeography using a trait-based approach</strong> </font>
+</p>
+<p>We are also interested in finding the determinants of plant distribution from the point of view of their traits. In this line, we use natural history collections and trait characterization tools to build comprehensive datasets of occurence points and functional traits. We combine these datasets with robust molecular phylogenies and phylogenetic comparive methods to quantify trait-environment correlations through flowering plant evolution.</p>
+</body>
 
 
 
@@ -343,7 +365,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -361,7 +383,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>

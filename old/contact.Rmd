@@ -1,0 +1,20 @@
+---
+title: ""
+
+---
+<div><img src="images/contact.jpg" width="100%" align="center"></div>
+
+
+<style> body {text-align: justify} </style>
+#
+<font size="5.5">Contact</font>
+  
+Department of Biological Sciences,  
+University of Arkansas, Fayetteville, AR 72701, USA  
+tvasc@uark.edu  
+  
+
+   
+<font size="2.5"> You can also contact me anytime in my personal email: thais.nogales@gmail.com </font>
+
+  

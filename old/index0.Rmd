@@ -1,0 +1,29 @@
+---
+title: ""
+
+---
+<div><img src="images/home.jpg" width="100%" align="center"></div>  
+<style> body {text-align: justify} </style>  
+#  
+#  
+
+I am a botanist with a great passion for evolutionary biology and biogeography. My daily work consists of investigating (1) why plant species are where they are and look how they look and then (2) why some areas and clades are much more species-rich than others.
+  
+Because these questions are multidisciplinary in nature, I have combined three main lines of research along my career to address them (see also [publications](tncvasconcelos.github.io/publications.html) for examples).  
+  
+  
+**(1) Lineage-focused studies (systematics)**: What are the relationships among the species of flowering plants? 
+  
+**(2) Area-focused studies (biogeography)**: Where do these species occur?
+  
+**(3) Trait-focused studies (morphology and trait-evolution)**: What traits characterize these lineages? 
+  
+I am now particularly interested in questions that integrate all three topics above. For instance, what are the spatial gradients of diversity in flowering plants and what causes them? Why are some traits more common in some areas and how these trait-area combinations drive distribution and diversification of flowering plants through time?
+  
+What underpin these questions are the inference of increasingly robust phylogenetic trees, assembly and curation of large trait and distribution datasets and development of new comparative and macroevolutionary methods that deal better with the complexity of biological evolution. Development of new, biologically realistic methods and analyses of large datasets are good descriptions of my current project as a postdoc at the [Beaulieu lab](https://www.jeremybeaulieu.org). I look forward to keep exploring these topics in the future.  
+
+<center>
+
+![That's me looking at the amazing stamens of *Calothamnus* (Myrtaceae)](images/me.jpg){ width=70% }
+
+</center>

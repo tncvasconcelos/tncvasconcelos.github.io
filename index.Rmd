@@ -2,17 +2,81 @@
 title: ""
 
 ---
-<div><img src="images/home.jpg" width="100%" align="center"></div>  
-<style> body {text-align: justify} </style>  
-#  
-#  
+<div><img src="images/home2.jpg" width="100%" align="center" ></div>  
+  
+<html>
+  <head>
+    <style>
+      h1 {text-align: center;}
+      body {text-align: center;}
+    </style>
+  </head>
+<body>
+
+<h1> </h1>
+
+</body>
+</html>
+<div><img src="images/blank.jpg" width="100%" align="center"></div>    
+
+<p style="text-align:center;">
+  <font size="3"> Welcome! </font>
+</p>  
+
+<p style="text-align:center;">
+  <font size="3"> We are botanists based at the Department of Ecology and Evolutionary Biology, University of Michigan - Ann Arbor! </font>
+</p>  
+  
+<div><img src="images/blank.jpg" width="100%" align="center"></div>    
+
+<h1>News</h1>  
+July 18 2022  
+<p style="text-align:center;">
 
 
-May 2022
+**I'm on the look out for grad students to join the lab in the Fall of 2023!**
+I’m actively looking for grad students to join the recently started Vasconcelos lab at the EEB Department - University of Michigan. If you are passionate about plants, evolution, biogeography, natural history collections, or all of the above, this may be your place : )
 
+**The graduate school application deadline for the EEB Department is the 1st December (2022) for a Fall 2023 start**. Please check [this link](https://lsa.umich.edu/eeb/graduates/prospective-students.html) for more information about the program and [this link](https://lsa.umich.edu/eeb/graduates/prospective-students/eeb-application-information.html) on how to apply. 
 
-This page is temporarily down while I update some information. 
+In our first years, we will be mainly focused on the two lines of research described below. Prospective students are encouraged to contact me at tvasc@umich.edu to start conversation about a potential alignment of interests before applying. It is not too early to begin a conversation about future projects!
+  
+I will also be hiring a two-year postdoc to join the lab in 2023 -- details on this position will be posted here soon.  
 
-List of publications, CV, and contact are still available by clicking on the corresponding tabs.
+</p>    
 
+<div><img src="images/blank.jpg" width="100%" align="center"></div>    
+
+<h1>Our research</h1>  
+  
+<body>  
+<style> body {text-align: justify} </style> 
+
+Currently, our lab is focusing on two main lines of research: 
+  
+<div style= "float:left;top: -0px;position: relative; padding:10px; width:500px; margin: 10px 10px">
+![Phylogeny of Myrteae -- in preparation with V. Staggemeier et al.](images/myrteae.jpg){}
+
+</div>  
+<p style="text-align:center;">
+<font size="4"> **Systematics, evolution, and ecology of Myrtales** </font>
+</p>
+<style> body {text-align: justify} </style> 
+  
+We are interested in understanding evolution of plants in poorly studied tropical areas and groups, and to that end we have mainly focused on lineages within the order Myrtales (guavas, pomegranates, cloves). We have several collaborators based in Brazil and the UK working together on this line of research and there is plenty of opportunity for international collaboration and fieldwork for prospective students and postdocs.
+
+  
+<div><img src="images/blank.jpg" width="100%" align="center"></div>    
+  
+<div style= "float:right;top: -0px;position: relative; padding:10px; width:500px; margin: 10px 10px">
+![Linking seed dispersal traits and climatic niche evolution in plants - modified from Vasconcelos et al. (2021) J. Biogeography](images/biogeo.jpg){}
+</div> 
+<p style="text-align:center;">
+<font size="4"> **Discovering the rules of plant biogeography using a trait-based approach** </font>  
+</p> 
+  
+We are also interested in finding the determinants of plant distribution from the point of view of their traits. In this line, we use natural history collections and trait characterization tools to build comprehensive datasets of occurence points and functional traits. We combine these datasets with robust molecular phylogenies and phylogenetic comparive methods to quantify trait-environment correlations through flowering plant evolution. 
+
+  
+</body>
 
