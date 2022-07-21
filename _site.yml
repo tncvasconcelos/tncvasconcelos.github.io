@@ -18,14 +18,14 @@ navbar:
     - text: "Contact"
       href: contact.html
   right:
-    - text: "scholar"
-      href: https://scholar.google.com/citations?user=bpkWIywAAAAJ&hl=en&oi=ao 
-    - text: ""
-      icon: fa-github
-      href: https://github.com/tncvasconcelos   
-    - text: ""
-      icon: fa-twitter
-      href: https://twitter.com/TNCVasconcelos  
+#   - text: ""
+#      href: https://scholar.google.com/citations?user=bpkWIywAAAAJ&hl=en&oi=ao 
+#    - text: ""
+#      icon: fa-github
+#      href: https://github.com/tncvasconcelos   
+#    - text: ""
+#      icon: fa-twitter
+#      href: https://twitter.com/TNCVasconcelos  
 
 output:
   html_document:
