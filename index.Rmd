@@ -76,7 +76,7 @@ We are interested in understanding the evolution of plants in poorly studied tro
 </p> 
   
 Trait-environment correlation analyses are ways to discover general patterns in plant biogeography by quantifying to what extent unrelated lineages have similar evolutionary responses to a given environment
-In this line, we use natural history collections and trait characterization tools to build comprehensive datasets of occurence points and functional traits. We combine these datasets with molecular phylogenies and phylogenetic comparive methods to quantify trait-environment correlations through flowering plant evolution. 
+In this line, we use natural history collections and trait characterization tools to build comprehensive datasets of occurrence points and functional traits. We combine these datasets with molecular phylogenies and phylogenetic comparive methods to quantify trait-environment correlations through flowering plant evolution. 
 
   
 </body>
