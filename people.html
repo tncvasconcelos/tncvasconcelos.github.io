@@ -11,9 +11,10 @@
 
 
 
-<title>people.utf8</title>
+<title>people.knit</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.17/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -59,6 +60,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -79,6 +81,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -136,11 +141,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -169,8 +178,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -178,16 +187,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -231,7 +233,7 @@ $(document).ready(function () {
 <div class="navbar navbar-inverse  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -270,58 +272,140 @@ $(document).ready(function () {
 </div>
 <p><font size="5.5"> The lab </font></p>
 <style> body {text-align: center} </style>
-<div style="float:left;left: 20px;top: 0px;position: relative; padding: 0px; width:260px; margin: 0px 65px 0px 0px">
+<div
+style="float:left;left: 20px;top: 0px;position: relative; padding: 0px; width:260px; margin: 0px 65px 0px 0px">
 <p><img src="images/thais.jpg" /></p>
 <p><font size="4">Thais Vasconcelos</font><br />
 (Principal Investigator)<br />
-My research focuses on the intersection between traits, geographical distribution and historical and spatial diversification in flowering plants, and my long term goal is to understand the general rules that link these three components through flowering plant evolution. I’m also a fan of Myrtales and want to contribute to filling gaps in our understanding of the biology of poorly known plant lineages. <a href="ThaisVasconcelos_CV_Feb2022.pdf#" class="download" style="color:blue" title="Download CV as PDF">CV here</a> <a href="mailto:tvasc@umich.edu" class="email">tvasc@umich.edu</a> | <a href="https://github.com/tncvasconcelos">Thais’ GitHub</a> | <a href="https://twitter.com/TNCVasconcelos">Thais’ Twitter</a> | <a href="https://scholar.google.com/citations?user=bpkWIywAAAAJ&amp;hl=en&amp;oi=ao">Thais’ Google scholar</a></p>
+My research focuses on the intersection between traits, geographical
+distribution and historical and spatial diversification in flowering
+plants, and my long term goal is to understand the general rules that
+link these three components through flowering plant evolution. (first
+name pronunciation: “Tah-ees”)
+<a href="ThaisVasconcelos_CV_Feb2022.pdf#" class="download" style="color:blue" title="Download CV as PDF">CV
+here</a> <a href="mailto:tvasc@umich.edu"
+class="email">tvasc@umich.edu</a> | <a
+href="https://github.com/tncvasconcelos">Thais’ GitHub</a> | <a
+href="https://twitter.com/TNCVasconcelos">Thais’ Twitter</a> | <a
+href="https://scholar.google.com/citations?user=bpkWIywAAAAJ&amp;hl=en&amp;oi=ao">Thais’
+Google scholar</a></p>
 </div>
-<div style="float:left;left: 0px;top: 0px;position: relative;padding: 0px; width:260px; margin: 0px 0px 0px 0px">
+<div
+style="float:left;left: 0px;top: 0px;position: relative;padding: 0px; width:260px; margin: 0px 0px 0px 0px">
 <p><img src="images/blank2.jpg" /></p>
 <p><font size="4"></font></p>
 </div>
-<div style="float:right;top: -0px;right: 20px;position: relative; padding: 0px; width:260px; margin: -0px 0px">
+<div
+style="float:right;top: -0px;right: 20px;position: relative; padding: 0px; width:260px; margin: -0px 0px">
 <p><img src="images/blank2.jpg" /></p>
 <p><font size="4"></font></p>
 </div>
 <div>
 <img src="images/blank.jpg" width="100%" align="center">
 </div>
-<p><font size="5.5"> co-advised grad students | collaborations </font></p>
-<div style="float:left;left: 20px;top: 0px;position: relative; padding: 0px; width:260px; margin: 0px 65px 0px 0px">
+<p><font size="5.5"> co-advised grad students | collaborations
+</font></p>
+<div
+style="float:left;left: 20px;top: 0px;position: relative; padding: 0px; width:260px; margin: 0px 65px 0px 0px">
 <p><img src="images/sandra.jpg" /></p>
 <p><font size="4">Sandra Reinales, MSc</font><br />
 (PhD student, USP-Brazil)<br />
-Sandra is a botanist interested in systematics, biogeography and morphological evolution, in a macroevolutionary context. Currently, she is a PhD student at USP (Brazil) under the supervision of Dr. José Rubens Pirani, where she studies diversification dynamics in the tribe Sauvagesieae (Ochnaceae). She is testing some mechanisms (e.g. dispersal capacity) that could explain the unbalanced species richness and the recent geographical distribution of Neotropical Ochnaceae, focusing on the montane areas of South America. In her spare time Sandra is also interested in historical collections of Colombian botanists. <a href="mailto:spreinales@gmail.com" class="email">spreinales@gmail.com</a> | <a href="https://www.researchgate.net/profile/Sandra_Reinales">Sandra’s Research Gate</a> | <a href="https://twitter.com/spreinales">Sandra’s Twitter</a></p>
+Sandra is a botanist interested in systematics, biogeography and
+morphological evolution, in a macroevolutionary context. Currently, she
+is a PhD student at USP (Brazil) under the supervision of Dr. José
+Rubens Pirani, where she studies diversification dynamics in the tribe
+Sauvagesieae (Ochnaceae). She is testing some mechanisms (e.g. dispersal
+capacity) that could explain the unbalanced species richness and the
+recent geographical distribution of Neotropical Ochnaceae, focusing on
+the montane areas of South America. In her spare time Sandra is also
+interested in historical collections of Colombian botanists. <a
+href="mailto:spreinales@gmail.com"
+class="email">spreinales@gmail.com</a> | <a
+href="https://www.researchgate.net/profile/Sandra_Reinales">Sandra’s
+Research Gate</a> | <a href="https://twitter.com/spreinales">Sandra’s
+Twitter</a></p>
 </div>
-<div style="float:left;left: 0px;top: 0px;position: relative;padding: 0px; width:260px; margin: 0px 0px 0px 0px">
+<div
+style="float:left;left: 0px;top: 0px;position: relative;padding: 0px; width:260px; margin: 0px 0px 0px 0px">
 <p><img src="images/lilian.jpg" /></p>
 <p><font size="4">Lílian Melo, MSc</font><br />
 (PhD student, UFU-Brazil)<br />
-Lílian is a PhD student in Ecology at UFU (Brazil) under the supervision of Dr. Vinicius Brito. She is interested in plant-pollinator interactions and macroevolutionary questions related to this topic. Currently, her research is mainly focused on the classification, evolution and distribution of species with pollen flowers. <a href="mailto:lilian.melo@ufu.br" class="email">lilian.melo@ufu.br</a> | <a href="https://scholar.google.com.br/citations?hl=pt-BR&amp;user=EpdBsl4AAAAJ">Lilian’s Google Scholar</a> | <a href="https://twitter.com/LilianRFMelo">Lilian’s Twitter</a> | <a href="https://www.researchgate.net/profile/Lilian_Rodrigues_Ferreira_De_Melo">Lilian’s ResearchGate</a></p>
+Lílian is a PhD student in Ecology at UFU (Brazil) under the supervision
+of Dr. Vinicius Brito. She is interested in plant-pollinator
+interactions and macroevolutionary questions related to this topic.
+Currently, her research is mainly focused on the classification,
+evolution and distribution of species with pollen flowers. <a
+href="mailto:lilian.melo@ufu.br" class="email">lilian.melo@ufu.br</a> |
+<a
+href="https://scholar.google.com.br/citations?hl=pt-BR&amp;user=EpdBsl4AAAAJ">Lilian’s
+Google Scholar</a> | <a href="https://twitter.com/LilianRFMelo">Lilian’s
+Twitter</a> | <a
+href="https://www.researchgate.net/profile/Lilian_Rodrigues_Ferreira_De_Melo">Lilian’s
+ResearchGate</a></p>
 </div>
-<div style="float:right;top: -0px;right: 20px;position: relative; padding: 0px; width:260px; margin: -0px 0px">
+<div
+style="float:right;top: -0px;right: 20px;position: relative; padding: 0px; width:260px; margin: -0px 0px">
 <p><img src="images/tita.jpg" /></p>
 <p><font size="4">Patrícia Sperotto, MSc</font><br />
 (PhD student, UFRGS-Brazil)<br />
-Patrícia earned her MSc. from the UEFS (Brazil) working with systematics and macroevolution of neotropical climbing plants, especially focusing on the role of climbing mechanisms in their diversification. Currently, she is a PhD student at UFRGS (Brazil) under the supervision of Dr. Marcelo Reginato and her project involves exploring the influence of cytogenetic characteristics (e.g., WGD events, polyploidy and genome size) and morphological traits in the macroevolutionary dynamics, geographic distribution and niche occupation of Melastomataceae. <a href="mailto:patriciassperotto@gmail.com" class="email">patriciassperotto@gmail.com</a> | <a href="https://twitter.com/P_Sperotto">Patricia’s twitter</a> | <a href="https://www.researchgate.net/profile/Patricia_Sperotto">Patricia’s ResearchGate</a></p>
+Patrícia earned her MSc. from the UEFS (Brazil) working with systematics
+and macroevolution of neotropical climbing plants, especially focusing
+on the role of climbing mechanisms in their diversification. Currently,
+she is a PhD student at UFRGS (Brazil) under the supervision of
+Dr. Marcelo Reginato and her project involves exploring the influence of
+cytogenetic characteristics (e.g., WGD events, polyploidy and genome
+size) and morphological traits in the macroevolutionary dynamics,
+geographic distribution and niche occupation of Melastomataceae. <a
+href="mailto:patriciassperotto@gmail.com"
+class="email">patriciassperotto@gmail.com</a> | <a
+href="https://twitter.com/P_Sperotto">Patricia’s twitter</a> | <a
+href="https://www.researchgate.net/profile/Patricia_Sperotto">Patricia’s
+ResearchGate</a></p>
 </div>
-<div style="float:left;top: 0px;left: 0px;position: relative; padding:0px; width:200px; margin: 0px 500px 0px 0px">
+<div
+style="float:left;top: 0px;left: 0px;position: relative; padding:0px; width:200px; margin: 0px 500px 0px 0px">
 <p><img src="images/blank.jpg" /></p>
 </div>
-<div style="float:left;top: -0px;left: 20px;position: relative; padding: 0px; width:260px; margin: 0px 65px 0px 0px">
+<div
+style="float:left;top: -0px;left: 20px;position: relative; padding: 0px; width:260px; margin: 0px 65px 0px 0px">
 <p><img src="images/thiago.jpg" /></p>
 <p><font size="4">Thiago Fernandes, MSc</font><br />
 (PhD student, JBRJ-Brazil)<br />
-Thiago is a PhD student in Botany at the Rio de Janeiro Botanic Garden interested in systematics and conservation and under the supervision of Dr. João M. A. Braga. His studies are focused on Neotropical Myrtaceae, specifically the megadiverse genus <em>Myrcia</em>. He is currently working on a taxonomic account of <em>Myrcia</em> species occurring in the Brazilian state of Rio de Janeiro along with spatial biodiversity analyses applied to the conservation of the Alantic Forest. Another research interest is to investigate the spatial distribution of floral traits in Atlantic Forest <em>Myrcia</em>. <a href="mailto:thiagofernandes@id.uff.br" class="email">thiagofernandes@id.uff.br</a> | <a href="https://www.researchgate.net/profile/Thiago-Fernandes-5">Thiago’s ResearchGate</a></p>
+Thiago is a PhD student in Botany at the Rio de Janeiro Botanic Garden
+interested in systematics and conservation and under the supervision of
+Dr. João M. A. Braga. His studies are focused on Neotropical Myrtaceae,
+specifically the megadiverse genus <em>Myrcia</em>. He is currently
+working on a taxonomic account of <em>Myrcia</em> species occurring in
+the Brazilian state of Rio de Janeiro along with spatial biodiversity
+analyses applied to the conservation of the Alantic Forest. Another
+research interest is to investigate the spatial distribution of floral
+traits in Atlantic Forest <em>Myrcia</em>. <a
+href="mailto:thiagofernandes@id.uff.br"
+class="email">thiagofernandes@id.uff.br</a> | <a
+href="https://www.researchgate.net/profile/Thiago-Fernandes-5">Thiago’s
+ResearchGate</a></p>
 </div>
-<div style="float:left;top: -0px;left: 0px;position: relative; padding: 0px; width:260px; margin: -0px 0px">
+<div
+style="float:left;top: -0px;left: 0px;position: relative; padding: 0px; width:260px; margin: -0px 0px">
 <p><img src="images/hercilia.jpg" /></p>
 <p><font size="4">Hercilia Cunha</font><br />
 (MSc student, UFRN-Brazil)<br />
-Hercília is a MSc student in Ecology at PPGECO/UFRN under the supervision of Dr. Vanessa Staggemeier. In her project, she aims to answer the question “What fruits and seeds of Myrtaceae can reveal about the success of this family in the Neotropics?”. She is interested in patterns associated with seed dispersal in Myrtaceae, such as size and color of seeds and fruits. She seeks to understand whether these patterns can explain the diversification of this group. <a href="mailto:herciliad7@gmail.com" class="email">herciliad7@gmail.com</a> | <a href="https://twitter.com/hercilia_cunha">Hercilia’s twitter</a> | <a href="https://www.researchgate.net/profile/Hercilia-Da-Cunha-2">Hercilia’s ResearchGate</a> | <a href="https://orcid.org/0000-0002-1152-5799">Hercilia’s ORCID</a></p>
+Hercília is a MSc student in Ecology at PPGECO/UFRN under the
+supervision of Dr. Vanessa Staggemeier. In her project, she aims to
+answer the question “What fruits and seeds of Myrtaceae can reveal about
+the success of this family in the Neotropics?”. She is interested in
+patterns associated with seed dispersal in Myrtaceae, such as size and
+color of seeds and fruits. She seeks to understand whether these
+patterns can explain the diversification of this group. <a
+href="mailto:herciliad7@gmail.com"
+class="email">herciliad7@gmail.com</a> | <a
+href="https://twitter.com/hercilia_cunha">Hercilia’s twitter</a> | <a
+href="https://www.researchgate.net/profile/Hercilia-Da-Cunha-2">Hercilia’s
+ResearchGate</a> | <a
+href="https://orcid.org/0000-0002-1152-5799">Hercilia’s ORCID</a></p>
 </div>
-<div style="float:right;top: -0px;right: 20px;position: relative; padding: 0px; width:260px; margin: -0px 0px">
+<div
+style="float:right;top: -0px;right: 20px;position: relative; padding: 0px; width:260px; margin: -0px 0px">
 <p><img src="images/blank2.jpg" /></p>
 <p><font size="4"> </font></p>
 </div>

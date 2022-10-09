@@ -11,9 +11,10 @@
 
 
 
-<title>index.utf8</title>
+<title>index.knit</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.17/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -59,6 +60,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -79,6 +81,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -136,11 +141,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -169,8 +178,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -178,16 +187,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -231,7 +233,7 @@ $(document).ready(function () {
 <div class="navbar navbar-inverse  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -287,7 +289,8 @@ $(document).ready(function () {
 <font size="3"> Welcome! </font>
 </p>
 <p style="text-align:center;">
-<font size="3"> We are botanists based at the Department of Ecology and Evolutionary Biology, University of Michigan - Ann Arbor! </font>
+<font size="3"> We are botanists based at the Department of Ecology and
+Evolutionary Biology, University of Michigan - Ann Arbor! </font>
 </p>
 <div>
 <img src="images/blank.jpg" width="100%" align="center">
@@ -295,13 +298,28 @@ $(document).ready(function () {
 <h1>
 News
 </h1>
-July 18 2022<br />
+October 9, 2022<br />
 
 <p style="text-align:center;">
-<p><strong>I’m on the look out for grad students to join the lab in the Fall of 2023!</strong> I’m actively looking for grad students to join the recently started Vasconcelos lab at the EEB Department - University of Michigan. If you are passionate about plants, evolution, biogeography, natural history collections, or all of the above, this may be your place : )</p>
-<p><strong>The graduate school application deadline for the EEB Department is the 1st December (2022) for a Fall 2023 start</strong>. Please check <a href="https://lsa.umich.edu/eeb/graduates/prospective-students.html">this link</a> for more information about the program and <a href="https://lsa.umich.edu/eeb/graduates/prospective-students/eeb-application-information.html">this link</a> on how to apply.</p>
-<p>In our first years, we will be mainly focused on the two lines of research described below. Prospective students are encouraged to contact me at <a href="mailto:tvasc@umich.edu" class="email">tvasc@umich.edu</a> to start conversation about a potential alignment of interests before applying. It is not too early to begin a conversation about future projects!</p>
-<p>I will also be hiring a two-year postdoc to join the lab in 2023 – details on this position will be posted here soon.</p>
+<p><strong>I’m on the look out for grad students to join the lab in the
+Fall of 2023!</strong> I’m actively looking for grad students to join
+the recently started Vasconcelos lab at the EEB Department - University
+of Michigan. If you are passionate about plants, evolution,
+biogeography, natural history collections, or all of the above, this may
+be your place : )</p>
+<p><strong>The graduate school application deadline for the EEB
+Department is the 1st December (2022) for a Fall 2023 start</strong>.
+Please check <a
+href="https://lsa.umich.edu/eeb/graduates/prospective-students.html">this
+link</a> for more information about the program and <a
+href="https://lsa.umich.edu/eeb/graduates/prospective-students/eeb-application-information.html">this
+link</a> on how to apply.</p>
+<p>In our first years, we will be mainly focused on the two lines of
+research described below. Prospective students are encouraged to contact
+me at <a href="mailto:tvasc@umich.edu" class="email">tvasc@umich.edu</a>
+to start conversation about a potential alignment of interests before
+applying. It is not too early to begin a conversation about future
+projects!</p>
 </p>
 <div>
 <img src="images/blank.jpg" width="100%" align="center">
@@ -312,30 +330,49 @@ Our research
 <body>
 <style> body {text-align: justify} </style>
 <p>Currently, our lab is focusing on two main lines of research:</p>
-<div style="float:left;top: -0px;position: relative; padding:10px; width:500px; margin: 10px 10px">
+<div
+style="float:left;top: -0px;position: relative; padding:10px; width:500px; margin: 10px 10px">
 <div class="figure">
-<img src="images/myrteae.jpg" alt="Phylogeny of Myrteae – in preparation with V. Staggemeier et al." />
-<p class="caption">Phylogeny of Myrteae – in preparation with V. Staggemeier et al.</p>
+<img src="images/myrteae.jpg" alt="" />
+<p class="caption">Phylogeny of Myrteae – in preparation with V.
+Staggemeier et al.</p>
 </div>
 </div>
 <p style="text-align:center;">
-<font size="4"> <strong>Systematics, evolution, and ecology of Myrtales</strong> </font>
+<font size="4"> <strong>Systematics, evolution, and ecology of
+Myrtales</strong> </font>
 </p>
 <style> body {text-align: justify} </style>
-<p>We are interested in understanding the evolution of plants in poorly studied tropical areas and groups, mainly focused on lineages within the order Myrtales (guavas, pomegranates, cloves). We have several collaborators based in Brazil and the UK working together on this line of research and there is plenty of opportunity for international collaboration and fieldwork for prospective students and postdocs.</p>
+<p>We are interested in understanding the evolution of plants in poorly
+studied tropical areas and groups, mainly focused on lineages within the
+order Myrtales (guavas, pomegranates, cloves). We have several
+collaborators based in Brazil and the UK working together on this line
+of research and there is plenty of opportunity for international
+collaboration and fieldwork for prospective students and postdocs.</p>
 <div>
 <img src="images/blank.jpg" width="100%" align="center">
 </div>
-<div style="float:right;top: -0px;position: relative; padding:10px; width:500px; margin: 10px 10px">
+<div
+style="float:right;top: -0px;position: relative; padding:10px; width:500px; margin: 10px 10px">
 <div class="figure">
-<img src="images/biogeo.jpg" alt="Linking seed dispersal traits and climatic niche evolution in plants - modified from Vasconcelos et al. (2021) J. Biogeography" />
-<p class="caption">Linking seed dispersal traits and climatic niche evolution in plants - modified from Vasconcelos et al. (2021) J. Biogeography</p>
+<img src="images/biogeo.jpg" alt="" />
+<p class="caption">Linking seed dispersal traits and climatic niche
+evolution in plants - modified from Vasconcelos et al. (2021) J.
+Biogeography</p>
 </div>
 </div>
 <p style="text-align:center;">
-<font size="4"> <strong>Discovering the rules of plant biogeography using a trait-based approach</strong> </font>
+<font size="4"> <strong>Discovering the rules of plant biogeography
+using a trait-based approach</strong> </font>
 </p>
-<p>Trait-environment correlation analyses are ways to discover general patterns in plant biogeography by quantifying to what extent unrelated lineages have similar evolutionary responses to a given environment In this line, we use natural history collections and trait characterization tools to build comprehensive datasets of occurence points and functional traits. We combine these datasets with molecular phylogenies and phylogenetic comparive methods to quantify trait-environment correlations through flowering plant evolution.</p>
+<p>Trait-environment correlation analyses are ways to discover general
+patterns in plant biogeography by quantifying to what extent unrelated
+lineages have similar evolutionary responses to a given environment In
+this line, we use natural history collections and trait characterization
+tools to build comprehensive datasets of occurrence points and
+functional traits. We combine these datasets with molecular phylogenies
+and phylogenetic comparative methods to quantify trait-environment
+correlations through flowering plant evolution.</p>
 </body>
 
 

@@ -30,7 +30,7 @@ title: ""
 <div><img src="images/blank.jpg" width="100%" align="center"></div>    
 
 <h1>News</h1>  
-July 18 2022  
+October 9, 2022  
 <p style="text-align:center;">
 
 
@@ -41,7 +41,6 @@ I’m actively looking for grad students to join the recently started Vasconcelo
 
 In our first years, we will be mainly focused on the two lines of research described below. Prospective students are encouraged to contact me at tvasc@umich.edu to start conversation about a potential alignment of interests before applying. It is not too early to begin a conversation about future projects!
   
-I will also be hiring a two-year postdoc to join the lab in 2023 -- details on this position will be posted here soon.  
 
 </p>    
 
@@ -76,7 +75,7 @@ We are interested in understanding the evolution of plants in poorly studied tro
 </p> 
   
 Trait-environment correlation analyses are ways to discover general patterns in plant biogeography by quantifying to what extent unrelated lineages have similar evolutionary responses to a given environment
-In this line, we use natural history collections and trait characterization tools to build comprehensive datasets of occurrence points and functional traits. We combine these datasets with molecular phylogenies and phylogenetic comparive methods to quantify trait-environment correlations through flowering plant evolution. 
+In this line, we use natural history collections and trait characterization tools to build comprehensive datasets of occurrence points and functional traits. We combine these datasets with molecular phylogenies and phylogenetic comparative methods to quantify trait-environment correlations through flowering plant evolution. 
 
   
 </body>
