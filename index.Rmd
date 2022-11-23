@@ -29,17 +29,7 @@ title: ""
   
 <div><img src="images/blank.jpg" width="100%" align="center"></div>    
 
-<h1>News</h1>  
-October 9, 2022  
-<p style="text-align:center;">
 
-
-**I'm on the look out for grad students to join the lab in the Fall of 2023!**
-I’m actively looking for grad students to join the recently started Vasconcelos lab at the EEB Department - University of Michigan. If you are passionate about plants, evolution, biogeography, natural history collections, or all of the above, this may be your place : )
-
-**The graduate school application deadline for the EEB Department is the 1st December (2022) for a Fall 2023 start**. Please check [this link](https://lsa.umich.edu/eeb/graduates/prospective-students.html) for more information about the program and [this link](https://lsa.umich.edu/eeb/graduates/prospective-students/eeb-application-information.html) on how to apply. 
-
-In our first years, we will be mainly focused on the two lines of research described below. Prospective students are encouraged to contact me at tvasc@umich.edu to start conversation about a potential alignment of interests before applying. It is not too early to begin a conversation about future projects!
   
 
 </p>    
