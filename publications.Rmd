@@ -6,12 +6,23 @@ title: ""
 <style> body {text-align: justify} </style>
 #  
 #  
-
-## **2022**   
   
-Leal ES, **Vasconcelos TNC**, Tuberquia D, Soto-Gomez M, Michelangeli FA, Forzza RC, Mello‐Silva R. 2022. Phylogeny and historical biogeography of the Panama‐hat family (Cyclanthaceae, Pandanales). *Taxon*. <a href="papers/Leal_et_al_2022_Cyclanthaceae.pdf#" class="download" style="color:black" title="">[get PDF]</a> 
+___
+  
+## **2022**   
+
+Bochorny T, Bacci LF, Reginato M, **Vasconcelos T**, Michelangeli FA, Goldenberg R. 2022. Similar diversification patterns in “sky islands”: A comparative approach in lineages from campo rupestre and campo de altitude. Perspectives in Plant Ecology, Evolution and Systematics 57: 125700. <a href="papers/Vasconcelos_et_al_2022_AmNat.pdf#" class="download" style="color:black" title="">[get PDF]</a>
+ 
+Low YW, Rajaraman S, Tomlin CM, Ahmad JA, Ardi WH, Armstrong K, Athen P, Berhaman A, Bone RE, Cheek A, Cho NRW, Choo LM, Cowie ID, Crayn D, Fleck S, Ford AJ, Foster PI, Girmansyah D, Goyder DJ, Gray B, Heatubun CD, Ibrahim A, brahim B, Jayasinghe HD, Kalat MA, Kathriarachchi HS, Khew GSW, Kintamani E, Koh SL, Lai JTK, Lee SML, Leong PFK, Lim WH, Lum SKY, Mahyuni R, McDonald WJF, Metali F, Mustaqim WA, Naiki A, Ngo KM, Niissalo M, Ranasinghe S, Repin R, Rustiami H, Salojarvi J, Simbiak VI, Sukri RS, Sunarti S, Trethowan L, Trias-Blasi A, **Vasconcelos T**, Wanma JF, Widodo P, Wijesundara DSA, Worboys S, Yap JW, Yong KT, Michael TP, Middleton DJ, Burslem DFRP, Lindqvist C, Lucas EJ, Albert VA. 2022. Genomic insights into rapid speciation within the world’s largest tree genus Syzygium. Nature Communications 13: 5031. <a href="papers/NatComm-Low-et-al-2022.pdf#" class="download" style="color:black" title="">[get PDF]</a>
+  
+Leal ES, **Vasconcelos TNC**, Tuberquia D, Soto-Gomez M, Michelangeli FA, Forzza RC, Mello‐Silva R. 2022. Phylogeny and historical biogeography of the Panama‐hat family (Cyclanthaceae, Pandanales). *Taxon*. <a href="papers/Taxon_Leal-et-al2022.pdf#" class="download" style="color:black" title="">[get PDF]</a> 
   
 **Vasconcelos TNC**, O'Meara BC, Beaulieu JM. 2022. A flexible method for estimating tip diversification rates across a range of speciation and extinction scenarios. *Evolution*. <a href="papers/Vasconcelos_et_al_2022_misse.pdf#" class="download" style="color:black" title="">[get PDF]</a>
+  
+<div style= "float:left;top: -0px;position: relative; padding:10px; width:200px; margin: 10px 10px">
+![](images/jbi_seed_dispersal.jpg){}
+
+</div>  
   
 Palma-Silva C, Turchetto-Zolet AC, Fay MF, **Vasconcelos TNC**. 2022. Drivers of exceptional Neotropical biodiversity: an updated view. *Botanical Journal of the Linnean Society*, 199(1), 1-7. <a href="papers/PalmaSilva_et_al_2022.pdf#" class="download" style="color:black" title="">[get PDF]</a>
   
