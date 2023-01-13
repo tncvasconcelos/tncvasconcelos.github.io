@@ -24,7 +24,7 @@ title: ""
 </p>  
 
 <p style="text-align:center;">
-  <font size="3"> We are botanists based at the Department of Ecology and Evolutionary Biology, University of Michigan - Ann Arbor! </font>
+  <font size="3"> We are botanists at the Department of Ecology and Evolutionary Biology, University of Michigan - Ann Arbor! </font>
 </p>  
   
 <div><img src="images/blank.jpg" width="100%" align="center"></div>    
@@ -41,7 +41,7 @@ title: ""
 <body>  
 <style> body {text-align: justify} </style> 
 
-Currently, our lab is focusing on two main lines of research: 
+Currently, our research lab is focused on two key areas of study: 
   
 <div style= "float:left;top: -0px;position: relative; padding:10px; width:500px; margin: 10px 10px">
 ![Phylogeny of Myrteae -- in preparation with V. Staggemeier et al.](images/myrteae.jpg){}
@@ -52,8 +52,7 @@ Currently, our lab is focusing on two main lines of research:
 </p>
 <style> body {text-align: justify} </style> 
   
-We are interested in understanding the evolution of plants in poorly studied tropical areas and groups, mainly focused on lineages within the order Myrtales (guavas, pomegranates, cloves). We have several collaborators based in Brazil and the UK working together on this line of research and there is plenty of opportunity for international collaboration and fieldwork for prospective students and postdocs.
-
+We aim to investigate the evolution of plants in under-researched tropical regions and groups, with a particular focus on lineages within the Myrtales order (which includes plants such as guavas, pomegranates, and cloves). By utilizing a range of methods including field observations, experiments, trait measurements, and phylogenetic and phylogenomic analyses, we are able to gain a comprehensive understanding of how the environment has influenced the evolution of this plant group and how different Myrtales lineages are related to one another. Our multidisciplinary approach allows us to uncover new insights and fill in the knowledge gaps in our understanding of ecology and evolution in tropical ecosystems.
   
 <div><img src="images/blank.jpg" width="100%" align="center"></div>    
   
@@ -64,9 +63,7 @@ We are interested in understanding the evolution of plants in poorly studied tro
 <font size="4"> **Discovering the rules of plant biogeography using a trait-based approach** </font>  
 </p> 
   
-Trait-environment correlation analyses are ways to discover general patterns in plant biogeography by quantifying to what extent unrelated lineages have similar evolutionary responses to a given environment
-In this line, we use natural history collections and trait characterization tools to build comprehensive datasets of occurrence points and functional traits. We combine these datasets with molecular phylogenies and phylogenetic comparative methods to quantify trait-environment correlations through flowering plant evolution. 
-
+Trait-environment correlation analyses allow us to uncover general patterns in plant biogeography by measuring how unrelated plant lineages have evolved similar traits in response to a specific environment. To accomplish this, we utilize natural history collections and trait characterization tools to gather large sets of occurrence data and functional traits. These datasets are then combined with molecular phylogenies and phylogenetic comparative methods to quantify the correlation between traits and environments throughout the evolution of flowering plants.
   
 </body>
 
