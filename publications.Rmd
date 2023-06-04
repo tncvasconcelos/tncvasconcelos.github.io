@@ -9,11 +9,19 @@ title: ""
   
 ___
   
+## **2023**   
+
+**Vasconcelos T**. (2023). A trait‐based approach to determining principles of plant biogeography. *American Journal of Botany*, 110(2), e16127. <a href="papers/Vasconcelos2023_synthesis.pdf#" class="download" style="color:black" title="">[get PDF]</a>
+   
+Boyko JD, Hagen ER, Beaulieu JM, & **Vasconcelos T.** (2023). The evolutionary responses of life‐history strategies to climatic variability in flowering plants. *New Phytologist* <a href="papers/Boyko_et_al_2023_life_history.pdf#" class="download" style="color:black" title="">[get PDF]</a>
+  
+**Vasconcelos TNC**, Boyko JD, Beaulieu JM. 2023. Linking mode of seed dispersal and climatic niche evolution in flowering plants. *Journal of Biogeography*. 50(1), 43-56. <a href="papers/Journal of Biogeography - 2021 - Vasconcelos - Linking mode of seed dispersal and climatic niche evolution in flowering.pdf#" class="download" style="color:black" title="">[get PDF]</a>
+   
 ## **2022**   
 
-Bochorny T, Bacci LF, Reginato M, **Vasconcelos T**, Michelangeli FA, Goldenberg R. 2022. Similar diversification patterns in “sky islands”: A comparative approach in lineages from campo rupestre and campo de altitude. Perspectives in Plant Ecology, Evolution and Systematics 57: 125700. <a href="papers/2022_Bochorny-et-al.pdf#" class="download" style="color:black" title="">[get PDF]</a>
+Bochorny T, Bacci LF, Reginato M, **Vasconcelos T**, Michelangeli FA, Goldenberg R. 2022. Similar diversification patterns in “sky islands”: A comparative approach in lineages from campo rupestre and campo de altitude. *Perspectives in Plant Ecology, Evolution and Systematics* 57: 125700. <a href="papers/2022_Bochorny-et-al.pdf#" class="download" style="color:black" title="">[get PDF]</a>
  
-Low YW, Rajaraman S, Tomlin CM, Ahmad JA, Ardi WH, Armstrong K, Athen P, Berhaman A, Bone RE, Cheek A, Cho NRW, Choo LM, Cowie ID, Crayn D, Fleck S, Ford AJ, Foster PI, Girmansyah D, Goyder DJ, Gray B, Heatubun CD, Ibrahim A, brahim B, Jayasinghe HD, Kalat MA, Kathriarachchi HS, Khew GSW, Kintamani E, Koh SL, Lai JTK, Lee SML, Leong PFK, Lim WH, Lum SKY, Mahyuni R, McDonald WJF, Metali F, Mustaqim WA, Naiki A, Ngo KM, Niissalo M, Ranasinghe S, Repin R, Rustiami H, Salojarvi J, Simbiak VI, Sukri RS, Sunarti S, Trethowan L, Trias-Blasi A, **Vasconcelos T**, Wanma JF, Widodo P, Wijesundara DSA, Worboys S, Yap JW, Yong KT, Michael TP, Middleton DJ, Burslem DFRP, Lindqvist C, Lucas EJ, Albert VA. 2022. Genomic insights into rapid speciation within the world’s largest tree genus Syzygium. Nature Communications 13: 5031. <a href="papers/NatComm-Low-et-al-2022.pdf#" class="download" style="color:black" title="">[get PDF]</a>
+Low YW, Rajaraman S, Tomlin CM, Ahmad JA, Ardi WH, Armstrong K, Athen P, Berhaman A, Bone RE, Cheek A, Cho NRW, Choo LM, Cowie ID, Crayn D, Fleck S, Ford AJ, Foster PI, Girmansyah D, Goyder DJ, Gray B, Heatubun CD, Ibrahim A, brahim B, Jayasinghe HD, Kalat MA, Kathriarachchi HS, Khew GSW, Kintamani E, Koh SL, Lai JTK, Lee SML, Leong PFK, Lim WH, Lum SKY, Mahyuni R, McDonald WJF, Metali F, Mustaqim WA, Naiki A, Ngo KM, Niissalo M, Ranasinghe S, Repin R, Rustiami H, Salojarvi J, Simbiak VI, Sukri RS, Sunarti S, Trethowan L, Trias-Blasi A, **Vasconcelos T**, Wanma JF, Widodo P, Wijesundara DSA, Worboys S, Yap JW, Yong KT, Michael TP, Middleton DJ, Burslem DFRP, Lindqvist C, Lucas EJ, Albert VA. 2022. Genomic insights into rapid speciation within the world’s largest tree genus Syzygium. *Nature Communications* 13: 5031. <a href="papers/NatComm-Low-et-al-2022.pdf#" class="download" style="color:black" title="">[get PDF]</a>
   
 <div style= "float:right;top: -0px;position: relative; padding:10px; width:200px; margin: 10px 10px">
 ![](images/jbi_seed_dispersal.jpg){}
@@ -37,8 +45,6 @@ ___
 ## **2021** 
   
 BFG. **Vasconceos TNC**. 2021. Brazilian Flora 2020: Leveraging the power of a collaborative scientific network. *Taxon*. <a href="papers/BFG_2022_Taxon.pdf#" class="download" style="color:black" title="">[get PDF]</a>
-  
-**Vasconcelos TNC**, Boyko JD, Beaulieu JM. 2021. Linking mode of seed dispersal and climatic niche evolution in flowering plants. *Journal of Biogeography*. <a href="papers/Journal of Biogeography - 2021 - Vasconcelos - Linking mode of seed dispersal and climatic niche evolution in flowering.pdf#" class="download" style="color:black" title="">[get PDF]</a>
   
 Santos LL, Forest F, Lima DF, Sales MF, **Vasconcelos TNC**, Staggemeier VG, Lucas E. 2021. Phylogenetic and Biogeographic Analysis in *Myrcia* Sect. *Myrcia* (*Myrcia* sl, Myrtaceae) with Focus on Highly Polyphyletic Myrcia splendens. *International Journal of Plant Sciences*, 182(9), 778-792. <a href="papers/Santos_et_al_2021_IJPS.pdf#" class="download" style="color:black" title="">[get PDF]</a>
   
