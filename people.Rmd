@@ -16,7 +16,7 @@ title: ""
   
 <font size="4">Thais Vasconcelos</font>  
 (Principal Investigator)  
-My work centers around the intersection of traits, geographical distribution, and diversification in the plant world. My long-term goal is to gain a comprehensive understanding of how these factors interact and shape the evolution of flowering plants. (my first name is pronounced "tah-EES") <a href="ThaisVasconcelos_CV_Jan2023.pdf#" class="download" style="color:blue" title="Download CV as PDF">CV here</a>	 tvasc@umich.edu  | [Thais' GitHub](https://github.com/tncvasconcelos) | [Thais' Twitter](https://twitter.com/TNCVasconcelos) | [Thais' Google scholar](https://scholar.google.com/citations?user=bpkWIywAAAAJ&hl=en&oi=ao) 
+My work centers around the intersection of traits, geographical distribution, and diversification in the plant world. My long-term goal is to gain a comprehensive understanding of how these factors interact and shape the evolution of flowering plants. (my first name is pronounced "tah-EES") <a href="ThaisVasconcelos_CV_Sept2023.pdf#" class="download" style="color:blue" title="Download CV as PDF">CV here</a>	 tvasc@umich.edu  | [Thais' GitHub](https://github.com/tncvasconcelos) | [Thais' Twitter](https://twitter.com/TNCVasconcelos) | [Thais' Google scholar](https://scholar.google.com/citations?user=bpkWIywAAAAJ&hl=en&oi=ao) 
   
 </div>  
 
@@ -29,9 +29,11 @@ I am an entomologist, largely influenced by botanists, who was always fascinated
 </div>  
 
 <div style= "float:right;top: -0px;right: 20px;position: relative; padding: 0px; width:260px; margin: -0px 0px">
-![](images/blank2.jpg){}  
+![](images/lena-01.jpg){}  
   
-<font size="4"></font>  
+<font size="4">Lena Heinrich</font>  
+(PhD student)   
+I am broadly interested in plant-pollinator interactions, evolution, and behavioral ecology. I completed my BA in Zoology and minor in Plant Biology in 2022, at the University of Vermont. My undergraduate research projects included studying the genetic control of flowering phenology, the development of nectar-producing glands, and the impacts of parasitism risk by wasps on the nesting behavior of solitary bees. Here at the University of Michigan, I will be working with Thais and Aline to study patterns and drivers of bee diversity, with a particular focus on nesting ecology and mutualisms with flowering plants. lenarh@umich.edu
 
 
 </div>
@@ -54,32 +56,18 @@ Sandra is a botanist interested in systematics, biogeography and morphological e
   
 </div>  
 
+
 <div style= "float:left;left: 0px;top: 0px;position: relative;padding: 0px; width:260px; margin: 0px 0px 0px 0px">
-![](images/lilian.jpg){}  
-  
-<font size="4">Lílian Melo, MSc</font>  
-(PhD student, UFU-Brazil)  
-Lílian is a PhD student in Ecology at UFU (Brazil) under the supervision of Dr. Vinicius Brito. She is interested in plant-pollinator interactions and macroevolutionary questions related to this topic. Currently, her research is mainly focused on the classification, evolution and distribution of species with pollen flowers. lilian.melo@ufu.br | [Lilian's Google Scholar](https://scholar.google.com.br/citations?hl=pt-BR&user=EpdBsl4AAAAJ) | [Lilian's Twitter](https://twitter.com/LilianRFMelo) | [Lilian's ResearchGate](https://www.researchgate.net/profile/Lilian_Rodrigues_Ferreira_De_Melo) 
-
-  
-</div>  
-
-<div style= "float:right;top: -0px;right: 20px;position: relative; padding: 0px; width:260px; margin: -0px 0px">
 ![](images/tita.jpg){}  
   
 <font size="4">Patrícia Sperotto, MSc</font>  
 (PhD student, UFRGS-Brazil)  
 Patrícia earned her MSc. from the UEFS (Brazil) working with systematics and macroevolution of neotropical climbing plants, especially focusing on the role of climbing mechanisms in their diversification. Currently, she is a PhD student at UFRGS (Brazil) under the supervision of Dr. Marcelo Reginato and her project involves exploring the influence of cytogenetic characteristics (e.g., WGD events, polyploidy and genome size) and morphological traits in the macroevolutionary dynamics, geographic distribution and niche occupation of Melastomataceae.  patriciassperotto@gmail.com | [Patricia's twitter](https://twitter.com/P_Sperotto) | [Patricia's ResearchGate](https://www.researchgate.net/profile/Patricia_Sperotto) 
   
-</div>
+</div>  
 
 
-<div style= "float:left;top: 0px;left: 0px;position: relative; padding:0px; width:200px; margin: 0px 500px 0px 0px">
-![](images/blank.jpg){}  
-</div>
-
-
-<div style= "float:left;top: -0px;left: 20px;position: relative; padding: 0px; width:260px; margin: 0px 65px 0px 0px">  
+<div style= "float:right;top: -0px;right: 20px;position: relative; padding: 0px; width:260px; margin: -0px 0px">
 ![](images/thiago.jpg){}  
   
 <font size="4">Thiago Fernandes, MSc</font>  
@@ -89,19 +77,41 @@ Thiago is a PhD student in Botany at the Rio de Janeiro Botanic Garden intereste
 </div>  
 
 
-<div style= "float:left;top: -0px;left: 0px;position: relative; padding: 0px; width:260px; margin: -0px 0px">  
+<div style= "float:left;top: 0px;left: 0px;position: relative; padding:0px; width:200px; margin: 0px 500px 0px 0px">
+![](images/blank.jpg){}  
+</div>
+  
+  #
+<div style= "float:left;left: 20px;top: 0px;position: relative; padding: 0px; width:260px; margin: 0px 65px 0px 0px">
+![](images/milena-01.jpg){}  
+  
+<font size="4">Milena Telhe</font>  
+(PhD student, UFSCar-Brazil)  
+My main scientific interest revolves around understanding the evolutionary processes shaping diversity, especially within the Neotropical region. As a Ph.D. student, I am passionately engaged in exploring the rich biodiversity and the evolutionary dynamics in the arid regions of the Neotropics, using cacti as a lens to examine these dry and enigmatic landscapes. milena.telhe@gmail.com
+  
+</div>  
+
+
+<div style= "float:left;left: 0px;top: 0px;position: relative;padding: 0px; width:260px; margin: 0px 0px 0px 0px">
 ![](images/hercilia.jpg){}  
   
 <font size="4">Hercilia Cunha</font>  
 (MSc student, UFRN-Brazil)  
 Hercília is a MSc student in Ecology at PPGECO/UFRN under the supervision of Dr. Vanessa Staggemeier. In her project, she aims to answer the question "What fruits and seeds of Myrtaceae can reveal about the success of this family in the Neotropics?". She is interested in patterns associated with seed dispersal in Myrtaceae, such as size and color of seeds and fruits. She seeks to understand whether these patterns can explain the diversification of this group. herciliad7@gmail.com | [Hercilia's twitter](https://twitter.com/hercilia_cunha) | [Hercilia's ResearchGate](https://www.researchgate.net/profile/Hercilia-Da-Cunha-2) | [Hercilia's ORCID](https://orcid.org/0000-0002-1152-5799) 
-
   
 </div>  
 
 
 <div style= "float:right;top: -0px;right: 20px;position: relative; padding: 0px; width:260px; margin: -0px 0px">
 ![](images/blank2.jpg){}  
+  
+<font size="4"></font>  
+ 
+  
+</div>  
+
+
+  
 
 <font size="4"> </font>  
 

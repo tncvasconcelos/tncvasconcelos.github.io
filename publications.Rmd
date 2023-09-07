@@ -9,8 +9,16 @@ title: ""
   
 ___
   
+  **bold** indicates current or former members of the lab
+  
 ## **2023**   
+  
+**Martins, A. C.**, Proença, C. E., **Vasconcelos, T.**, Aguiar, A. J., Farinasso, H. C., de Lima, A. T., Faria, J. E. Q., Norrana, K., Costa, M. B. R., Carvalho, M. C., Dias, R. L., Bustamante, M. M. C. Carvalho, F. A. & Keller, A. (2023). Contrasting patterns of foraging behavior in neotropical stingless bees using pollen and honey metabarcoding. *Scientific Reports*, 13(1), 14474. 10.1038/s41598-023-41304-0 <a href="papers/Martins_et_al2023_pollen.pdf#" class="download" style="color:black" title="">[get PDF]</a>
+  
+**Sperotto, P.**, Roque, N., Acevedo‐Rodríguez, P., & **Vasconcelos, T.** (2023). Climbing mechanisms and the diversification of neotropical climbing plants across time and space. *New Phytologist*. 10.1111/nph.19093 <a href="papers/Sperotto_et_al2023_climbers.pdf#" class="download" style="color:black" title="">[get PDF]</a>
 
+Dawson, M. N., Gillespie, R., Robin, V. V., Tolley, K. A., & **Vasconcelos, T.** (2023). The Global Biogeography Initiative. *Journal of Biogeography*, 50(8), 1373-1376. 10.1111/jbi.14680 <a href="papers/Dawson_etal_2023_global_bio.pdf#" class="download" style="color:black" title="">[get PDF]</a>
+  
 **Vasconcelos T**. (2023). A trait‐based approach to determining principles of plant biogeography. *American Journal of Botany*, 110(2), e16127. <a href="papers/Vasconcelos2023_synthesis.pdf#" class="download" style="color:black" title="">[get PDF]</a>
    
 Boyko JD, Hagen ER, Beaulieu JM, & **Vasconcelos T.** (2023). The evolutionary responses of life‐history strategies to climatic variability in flowering plants. *New Phytologist* <a href="papers/Boyko_et_al_2023_life_history.pdf#" class="download" style="color:black" title="">[get PDF]</a>
