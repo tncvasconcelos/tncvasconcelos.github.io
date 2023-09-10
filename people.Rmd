@@ -34,18 +34,41 @@ I am an entomologist, largely influenced by botanists, who was always fascinated
 <font size="4">Lena Heinrich</font>  
 (PhD student)   
 I am broadly interested in plant-pollinator interactions, evolution, and behavioral ecology. I completed my BA in Zoology and minor in Plant Biology in 2022, at the University of Vermont. My undergraduate research projects included studying the genetic control of flowering phenology, the development of nectar-producing glands, and the impacts of parasitism risk by wasps on the nesting behavior of solitary bees. Here at the University of Michigan, I will be working with Thais and Aline to study patterns and drivers of bee diversity, with a particular focus on nesting ecology and mutualisms with flowering plants. lenarh@umich.edu
-
-
-</div>
-
   
+</div>  
+
+
+<div style= "float:left;top: 0px;left: 0px;position: relative; padding:0px; width:200px; margin: 0px 500px 0px 0px">
+![](images/blank.jpg){}  
+</div>  
+  
+  
+<div style= "float:left;left: 20px;top: 0px;position: relative; padding: 0px; width:260px; margin: 0px 65px 0px 0px"> 
+![](images/paulo-01.jpg){}  
+<font size="4">Paulo Henrique Gaem, MSc</font>  
+(PhD student)  
+I am interested in systematics and evolution of highly diverse tropical plant lineages. My work is focused on the Neotropical region, with the hyper-diverse woody genus *Myrcia* DC. (Myrtaceae) as a model. I have a bachelor’s degree in Forest Engineering and a master’s degree in Plant Biology, both obtained in Brazil. I’m currently a PhD student at the Ecology and Evolutionary Biology department of the University of Michigan, Ann Arbor. In this new step, I intend to explore the diversification patterns and build on the systematic knowledge of the still poorly understood lineage *Myrcia* section *Aulomyrcia* (O.Berg) Griseb. phgaem@umich.edu | [Paulo's Research Gate](https://www.researchgate.net/profile/Paulo-Henrique-Gaem) | [Paulo's Google scholar Gate](https://scholar.google.com/citations?user=0mWvvX0AAAAJ&hl=pt-BR)
+  
+</div>  
+
+<div style= "float:left;left: 0px;top: 0px;position: relative;padding: 0px; width:260px; margin: 0px 0px 0px 0px">
+![](images/blank2.jpg){}  
+  
+<font size="4"></font>  
+
+</div>  
+
+<div style= "float:right;top: -0px;right: 20px;position: relative; padding: 0px; width:260px; margin: -0px 0px">
+![](images/blank2.jpg){}  
+  
+<font size="4"></font>  
+ 
+</div>  
+
+
 <div><img src="images/blank.jpg" width="100%" align="center"></div>    
-  
-  
+
 <font size="5.5"> co-advised grad students | collaborations </font>  
-  
-
-
 
 <div style= "float:left;left: 20px;top: 0px;position: relative; padding: 0px; width:260px; margin: 0px 65px 0px 0px">
 ![](images/sandra.jpg){}  
