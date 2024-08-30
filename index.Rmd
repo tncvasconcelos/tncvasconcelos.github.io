@@ -2,7 +2,7 @@
 title: ""
 
 ---
-<div><img src="images/home2.jpg" width="100%" align="center" ></div>  
+<div><img src="images/tree_logo.tre3-07.png" width="100%" align="center" ></div>  
   
 <html>
   <head>
@@ -41,10 +41,10 @@ title: ""
 <body>  
 <style> body {text-align: justify} </style> 
 
-Currently, our research lab is focused on two key areas of study: 
+Currently, research in our lab is focused on two key areas: 
   
 <div style= "float:left;top: -0px;position: relative; padding:10px; width:500px; margin: 10px 10px">
-![Phylogeny of Myrteae -- in preparation with V. Staggemeier et al.](images/myrteae.jpg){}
+![Phylogeny of Myrteae -- Neotropical Myrtaceae Working Group (2024) Am.J.Botany](images/myrteae.jpg){}
 
 </div>  
 <p style="text-align:center;">
@@ -52,18 +52,17 @@ Currently, our research lab is focused on two key areas of study:
 </p>
 <style> body {text-align: justify} </style> 
   
-We aim to investigate the evolution of plants in under-researched tropical regions and groups, with a particular focus on lineages within the Myrtales order (which includes plants such as guavas, pomegranates, and cloves). By utilizing a range of methods including field observations, experiments, trait measurements, and phylogenetic and phylogenomic analyses, we are able to gain a comprehensive understanding of how the environment has influenced the evolution of this plant group and how different Myrtales lineages are related to one another. Our multidisciplinary approach allows us to uncover new insights and fill in the knowledge gaps in our understanding of ecology and evolution in tropical ecosystems.
+We investigate plant ecology and evolution in under-researched tropical regions, with a particular focus on lineages within the order Myrtales (which includes plants such as guavas, pomegranates, and cloves). We use a range of methods and data including trait measurements, biogeographical analyses and phylogenetic inferences to gain a comprehensive understanding of how the environment has influenced the evolution of this plant group and how different Myrtales lineages are related to one another. 
   
 <div><img src="images/blank.jpg" width="100%" align="center"></div>    
   
 <div style= "float:right;top: -0px;position: relative; padding:10px; width:500px; margin: 10px 10px">
-![Linking seed dispersal traits and climatic niche evolution in plants - modified from Vasconcelos et al. (2021) J. Biogeography](images/biogeo.jpg){}
+![Linking seed dispersal traits and climatic niche evolution in plants - modified from Vasconcelos et al. (2023) J. Biogeography](images/biogeo.jpg){}
 </div> 
 <p style="text-align:center;">
 <font size="4"> **Discovering the rules of plant biogeography using a trait-based approach** </font>  
 </p> 
   
-Trait-environment correlation analyses allow us to uncover general patterns in plant biogeography by measuring how unrelated plant lineages have evolved similar traits in response to a specific environment. To accomplish this, we utilize natural history collections and trait characterization tools to gather large sets of occurrence data and functional traits. These datasets are then combined with molecular phylogenies and phylogenetic comparative methods to quantify the correlation between traits and environments throughout the evolution of flowering plants.
-  
+We utilize natural history collections and trait characterization tools to gather large sets of occurrence data and functional traits. These datasets are then combined with molecular phylogenies and phylogenetic comparative methods to quantify the correlation between traits and environments throughout the evolution of flowering plants. Our goal is to utilize trait-environment correlation analyses to uncover general patterns in plant biogeography by measuring how unrelated plant lineages have evolved similar traits in response to a specific environment.
 </body>
 

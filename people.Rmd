@@ -16,7 +16,7 @@ title: ""
   
 <font size="4">Thais Vasconcelos</font>  
 (Principal Investigator)  
-My work centers around the intersection of traits, geographical distribution, and diversification in the plant world. My long-term goal is to gain a comprehensive understanding of how these factors interact and shape the evolution of flowering plants. (my first name is pronounced "tah-EES") <a href="ThaisVasconcelos_CV_Dec2023.pdf#" class="download" style="color:blue" title="Download CV as PDF">CV here</a>	 tvasc@umich.edu  | [Thais' GitHub](https://github.com/tncvasconcelos) | [Thais' Twitter](https://twitter.com/TNCVasconcelos) | [Thais' Google scholar](https://scholar.google.com/citations?user=bpkWIywAAAAJ&hl=en&oi=ao) 
+My work centers around the intersection of traits, geographical distribution, and diversification in the plant world. My long-term goal is to gain a comprehensive understanding of how these factors interact and shape the evolution of flowering plants. (my first name is pronounced "tah-EES") <a href="ThaisVasconcelos_CV_Aug2024.pdf#" class="download" style="color:blue" title="Download CV as PDF">CV here</a>	 tvasc@umich.edu  | [Thais' GitHub](https://github.com/tncvasconcelos) | [Thais' Twitter](https://twitter.com/TNCVasconcelos) | [Thais' Google scholar](https://scholar.google.com/citations?user=bpkWIywAAAAJ&hl=en&oi=ao) 
   
 </div>  
 
@@ -91,11 +91,11 @@ Patrícia earned her MSc. from the UEFS (Brazil) working with systematics and ma
 
 
 <div style= "float:right;top: -0px;right: 20px;position: relative; padding: 0px; width:260px; margin: -0px 0px">
-![](images/thiago.jpg){}  
+![](images/yacov-01.jpg){}  
   
-<font size="4">Thiago Fernandes, MSc</font>  
-(PhD student, JBRJ-Brazil)  
-Thiago is a PhD student in Botany at the Rio de Janeiro Botanic Garden interested in systematics and conservation and under the supervision of Dr. João M. A. Braga. His studies are focused on Neotropical Myrtaceae, specifically the megadiverse genus *Myrcia*. He is currently working on a taxonomic account of *Myrcia* species occurring in the Brazilian state of Rio de Janeiro along with spatial biodiversity analyses applied to the conservation of the Alantic Forest. Another research interest is to investigate the spatial distribution of floral traits in Atlantic Forest *Myrcia*. thiagofernandes@id.uff.br | [Thiago's ResearchGate](https://www.researchgate.net/profile/Thiago-Fernandes-5) 
+<font size="4">Yacov Kilsztajn, MSc</font>  
+(MSc student, UFRN-Brazil)  
+ Yacov is doing his master's under supervision of Dr. Vanessa Staggemeier. He is working with trait evolution and biome shifts in Myrteae (Myrtaceae). Specifically, he is measuring which of two processes -- pre-adaptation followed by biome shift, or biome shift followed by adaptation -- are prevalent in the group. ykilmail@gmail.com 
   
 </div>  
 
@@ -104,7 +104,6 @@ Thiago is a PhD student in Botany at the Rio de Janeiro Botanic Garden intereste
 ![](images/blank.jpg){}  
 </div>
   
-  #
 <div style= "float:left;left: 20px;top: 0px;position: relative; padding: 0px; width:260px; margin: 0px 65px 0px 0px">
 ![](images/milena-01.jpg){}  
   
@@ -116,11 +115,9 @@ My main scientific interest revolves around understanding the evolutionary proce
 
 
 <div style= "float:left;left: 0px;top: 0px;position: relative;padding: 0px; width:260px; margin: 0px 0px 0px 0px">
-![](images/hercilia.jpg){}  
+![](images/blank2.jpg){}  
   
-<font size="4">Hercilia Cunha</font>  
-(MSc student, UFRN-Brazil)  
-Hercília is a MSc student in Ecology at PPGECO/UFRN under the supervision of Dr. Vanessa Staggemeier. In her project, she aims to answer the question "What fruits and seeds of Myrtaceae can reveal about the success of this family in the Neotropics?". She is interested in patterns associated with seed dispersal in Myrtaceae, such as size and color of seeds and fruits. She seeks to understand whether these patterns can explain the diversification of this group. herciliad7@gmail.com | [Hercilia's twitter](https://twitter.com/hercilia_cunha) | [Hercilia's ResearchGate](https://www.researchgate.net/profile/Hercilia-Da-Cunha-2) | [Hercilia's ORCID](https://orcid.org/0000-0002-1152-5799) 
+
   
 </div>  
 
