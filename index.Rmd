@@ -69,11 +69,11 @@ Currently, research in our lab is focused on two key areas:
 
 </div>  
 <p style="text-align:center;">
-<font size="4"> **Systematics, evolution, and ecology of Myrtales** </font>
+<font size="4"> **Systematics, evolution, and ecology of Myrtaceae** </font>
 </p>
 <style> body {text-align: justify} </style> 
   
-We investigate plant ecology and evolution in under-researched tropical regions, with a particular focus on lineages within the order Myrtales (which includes plants such as guavas, pomegranates, and cloves). We use a range of methods and data including trait measurements, biogeographical analyses and phylogenetic inferences to gain a comprehensive understanding of how the environment has influenced the evolution of this plant group and how different Myrtales lineages are related to one another. 
+We study plant ecology and evolution in understudied tropical regions, with a particular focus on neotropical myrtles (tribe Myrteae, Myrtaceae). We use a range of methods and data including trait measurements, biogeographical analyses and phylogenetic inferences to gain a comprehensive understanding of how the environment has influenced the evolution of this plant group and how different Myrteae lineages are related to one another. 
   
 <div><img src="images/blank.jpg" width="100%" align="center"></div>    
   
@@ -84,6 +84,6 @@ We investigate plant ecology and evolution in under-researched tropical regions,
 <font size="4"> **Discovering the rules of plant biogeography using a trait-based approach** </font>  
 </p> 
   
-We utilize natural history collections and trait characterization tools to gather large sets of occurrence data and functional traits. These datasets are then combined with molecular phylogenies and phylogenetic comparative methods to quantify the correlation between traits and environments throughout the evolution of flowering plants. Our goal is to utilize trait-environment correlation analyses to uncover general patterns in plant biogeography by measuring how unrelated plant lineages have evolved similar traits in response to a specific environment.
+We use natural history collections and trait characterization tools to gather large sets of occurrence data and functional traits. These datasets are then combined with molecular phylogenies and phylogenetic comparative methods to quantify the correlation between traits and environments throughout the evolution of flowering plants. Our goal is to utilize trait-environment correlation analyses to uncover general patterns in plant biogeography by measuring how unrelated plant lineages have evolved similar traits in response to a specific environment.
 </body>
 
