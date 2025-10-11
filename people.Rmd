@@ -14,7 +14,7 @@ title: ""
 <div style= "float:left;left: 20px;top: 0px;position: relative; padding: 0px; width:260px; margin: 0px 65px 0px 0px">
 ![](images/thais.jpg){}  
   
-<font size="4">Thais Vasconcelos</font>  
+<font size="4">Thais Vasconcelos, PhD</font>  
 (Principal Investigator)  
 The foundation of my research is to seek generalities, or “rules”, in flowering plant evolution, by focusing on the major biogeographical patterns observed in their phenotypes. (my first name is pronounced "tah-EES") <a href="ThaisVasconcelos_CV_Aug2024.pdf#" class="download" style="color:blue" title="Download CV as PDF">CV here</a>	 tvasc@umich.edu  | [Thais' GitHub](https://github.com/tncvasconcelos) | [Thais' bluesky](https://bsky.app/profile/tvasconcelos.bsky.social) | [Thais' Google scholar](https://scholar.google.com/citations?user=bpkWIywAAAAJ&hl=en&oi=ao) 
   
@@ -35,13 +35,17 @@ Lena is broadly interested in plant-pollinator interactions, evolution, and beha
 <font size="4">Paulo Henrique Gaem, MSc</font>  
 (PhD student)  
 Paulo is interested in systematics and evolution of highly diverse tropical plant lineages. His work aims to investigate the relationship between traits and the environment, phylogenetic relationships, biogeography, and trait divergence between sister taxa in neotropical myrtles (Myrtaceae, Myrteae), a hyper-diverse and
- morphologically homogeneous lineage. phgaem@umich.edu | [Paulo's Research Gate](https://www.researchgate.net/profile/Paulo-Henrique-Gaem) | [Paulo's Google scholar Gate](https://scholar.google.com/citations?user=0mWvvX0AAAAJ&hl=pt-BR)
+ morphologically homogeneous lineage. phgaem@umich.edu | [Paulo's Research Gate](https://www.researchgate.net/profile/Paulo-Henrique-Gaem) | [Paulo's Google scholar](https://scholar.google.com/citations?user=0mWvvX0AAAAJ&hl=pt-BR)
   
 </div>  
-
-
-<div style= "float:left;top: 0px;left: 0px;position: relative; padding:0px; width:200px; margin: 0px 500px 0px 0px">
-![](images/blank.jpg){}  
+  
+  
+<div style= "float:left;left: 20px;top: 0px;position: relative; padding: 0px; width:260px; margin: 0px 65px 0px 0px">
+![](images/eric-01.jpg){}  
+<font size="4">Eric Hagen, PhD</font>  
+(Postdoctoral Fellow)  
+Eric's research interests revolve around questions at large scales in biology: big phylogenies, macroevolution over millions of years, global biogeography, etc. He approaches these problems mainly with analyses of trait evolution and diversification in plants, using statistical tools like phylogenetic comparative methods and meta-analysis. Much of his work has focused on plant evolution in response to shifts in ploidy and climate. erhagen@umich.edu | [Eric's website](https://erichagen.github.io) | [Eric's Google scholar](https://scholar.google.com/citations?user=0ewKmH8AAAAJ&hl=en&oi=ao)
+  
 </div>  
   
   
@@ -72,11 +76,9 @@ Paulo is interested in systematics and evolution of highly diverse tropical plan
 <font size="5.5"> co-advised grad students | collaborations </font>  
 
 <div style= "float:left;left: 20px;top: 0px;position: relative; padding: 0px; width:260px; margin: 0px 65px 0px 0px">
-![](images/sandra.jpg){}  
+![](images/blank2.jpg){}  
   
-<font size="4">Sandra Reinales, MSc</font>  
-(PhD student, USP-Brazil)  
-Sandra is a botanist interested in systematics, biogeography and morphological evolution, in a macroevolutionary context. Currently, she is a PhD student at USP (Brazil) under the supervision of Dr. José Rubens Pirani, where she studies diversification dynamics in the tribe Sauvagesieae (Ochnaceae). In her spare time Sandra is also interested in historical collections of Colombian botanists. spreinales@gmail.com | [Sandra's Research Gate](https://www.researchgate.net/profile/Sandra_Reinales) | [Sandra's Twitter](https://twitter.com/spreinales)
+<font size="4"></font>  
   
 </div>  
 
@@ -152,6 +154,7 @@ Patrícia earned her MSc. from the UEFS (Brazil) working with systematics and ma
 
 <style> body {text-align: center} </style> 
   
+2023-2025: Sandra Reinales, co-mentored PhD student (USP, Brazil).   
 2023-2025: Aline Martins, postdoc (UM-EEB).   
 2024-2025: Aya Mortada, visiting PhD student (Unimore, Italy).  
 2023,2024: Zoe Bugnaski, undergraduate student (UM-EEB).  
