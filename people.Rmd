@@ -16,7 +16,7 @@ title: ""
   
 <font size="4">Thais Vasconcelos, PhD</font>  
 (Principal Investigator)  
-The foundation of my research is to seek generalities, or “rules”, in flowering plant evolution, by focusing on the major biogeographical patterns observed in their phenotypes. (my first name is pronounced "tah-EES") <a href="ThaisVasconcelos_CV_Aug2024.pdf#" class="download" style="color:blue" title="Download CV as PDF">CV here</a>	 tvasc@umich.edu  | [Thais' GitHub](https://github.com/tncvasconcelos) | [Thais' bluesky](https://bsky.app/profile/tvasconcelos.bsky.social) | [Thais' Google scholar](https://scholar.google.com/citations?user=bpkWIywAAAAJ&hl=en&oi=ao) 
+The foundation of my research is to seek generalities, or “rules”, in flowering plant evolution, by focusing on the major biogeographical patterns observed in their phenotypes. (my first name is pronounced "tah-EES") <a href="TVasconcelos_CV_Aug2026.pdf#" class="download" style="color:blue" title="Download CV as PDF">CV here</a>	 tvasc@umich.edu  | [Thais' GitHub](https://github.com/tncvasconcelos) | [Thais' bluesky](https://bsky.app/profile/tvasconcelos.bsky.social) | [Thais' Google scholar](https://scholar.google.com/citations?user=bpkWIywAAAAJ&hl=en&oi=ao) 
   
 </div>  
 
@@ -66,40 +66,7 @@ Eric's research interests revolve around questions at large scales in biology: b
 <div style= "float:right;top: -0px;right: 20px;position: relative; padding: 0px; width:260px; margin: -0px 0px">
 ![](images/blank.jpg){}  
   
-<font size="4"></font>  
- 
-</div>  
 
-
-<div><img src="images/blank.jpg" width="100%" align="center"></div>    
-
-<font size="5.5"> co-advised grad students | collaborations </font>  
-
-<div style= "float:left;left: 20px;top: 0px;position: relative; padding: 0px; width:260px; margin: 0px 65px 0px 0px">
-![](images/yacov-01.jpg){}  
-  
-<font size="4">Yacov Kilsztajn</font>  
-(MSc student, UFRN-Brazil)  
- Yacov is doing his master's under supervision of Dr. Vanessa Staggemeier. He is working with trait evolution and biome shifts in Myrteae (Myrtaceae). Specifically, he is measuring which of two processes -- pre-adaptation followed by biome shift, or biome shift followed by adaptation -- are prevalent in the group. ykilmail@gmail.com 
-  
-</div>  
-
-<div style= "float:left;left: 0px;top: 0px;position: relative;padding: 0px; width:260px; margin: 0px 0px 0px 0px">
-![](images/tita.jpg){}  
-  
-<font size="4">Patrícia Sperotto, MSc</font>  
-(PhD student, UFRGS-Brazil)  
-Patrícia earned her MSc. from the UEFS (Brazil) working with systematics and macroevolution of neotropical climbing plants, especially focusing on the role of climbing mechanisms in their diversification. Currently, she is a PhD student at UFRGS (Brazil) under the supervision of Dr. Marcelo Reginato and her project involves exploring the influence of cytogenetic characteristics and morphological traits in the macroevolutionary dynamics, geographic distribution and niche occupation of Melastomataceae.  patriciassperotto@gmail.com | [Patricia's twitter](https://twitter.com/P_Sperotto) | [Patricia's ResearchGate](https://www.researchgate.net/profile/Patricia_Sperotto) 
-  
-</div>  
-
-
-<div style= "float:right;top: -0px;right: 20px;position: relative; padding: 0px; width:260px; margin: -0px 0px">
-![](images/blank2.jpg){}  
-  
-<font size="4"></font>  
-  
-</div>  
 
 
 <div style= "float:left;top: 0px;left: 0px;position: relative; padding:0px; width:200px; margin: 0px 500px 0px 0px">
@@ -153,7 +120,9 @@ Patrícia earned her MSc. from the UEFS (Brazil) working with systematics and ma
 
 <style> body {text-align: center} </style> 
   
-2023-2025: Sandra Reinales, co-mentored PhD student (USP, Brazil).   
+2021-2026: Patrícia Sperotto, co-mentored PhD student (UFRGS, Brazil).  
+2023-2026: Yacov Kilsztajn, co-mentored MSc student (UFRN, Brazil).  
+2023-2025: Sandra Reinales, co-mentored PhD student (USP, Brazil).  
 2023-2025: Aline Martins, postdoc (UM-EEB).   
 2024-2025: Aya Mortada, visiting PhD student (Unimore, Italy).  
 2023,2024: Zoe Bugnaski, undergraduate student (UM-EEB).  
