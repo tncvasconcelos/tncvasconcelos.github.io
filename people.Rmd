@@ -12,7 +12,7 @@ title: ""
 
   
 <div style= "float:left;left: 20px;top: 0px;position: relative; padding: 0px; width:260px; margin: 0px 65px 0px 0px">
-![](images/thais.jpg){}  
+![](images/thais2026-01.jpg){}  
   
 <font size="4">Thais Vasconcelos, PhD</font>  
 (Principal Investigator)  
@@ -39,20 +39,22 @@ Paulo is interested in systematics and evolution of highly diverse tropical plan
   
 </div>  
   
-  
+<div><img src="images/blank.jpg" width="100%" align="center"></div>    
+
 <div style= "float:left;left: 20px;top: 0px;position: relative; padding: 0px; width:260px; margin: 0px 65px 0px 0px">
-![](images/eric-01.jpg){}  
-<font size="4">Eric Hagen, PhD</font>  
-(Postdoctoral Fellow)  
-Eric's research interests revolve around questions at large scales in biology: big phylogenies, macroevolution over millions of years, global biogeography, etc. He approaches these problems mainly with analyses of trait evolution and diversification in plants, using statistical tools like phylogenetic comparative methods and meta-analysis. Much of his work has focused on plant evolution in response to shifts in ploidy and climate. erhagen@umich.edu | [Eric's website](https://erichagen.github.io) | [Eric's Google scholar](https://scholar.google.com/citations?user=0ewKmH8AAAAJ&hl=en&oi=ao)
+![](images/dylan-01-01.jpg){}  
+<font size="4">Dylan Sheng</font>  
+(PhD student)  
+Dylan is interested in how species originate, how they got to where they are today, and the processes that generate new species. He is interested in utilizing herbarium collections, field work, and molecular data to answer these questions. dylsheng@umich.edu 
   
 </div>  
   
   
 <div style= "float:left;left: 20px;top: 0px;position: relative; padding: 0px; width:260px; margin: 0px 65px 0px 0px"> 
-![](images/blank.jpg){}  
-<font size="4"></font>  
-  
+![](images/lazaro-01.jpg){}  
+<font size="4">Lázaro Conceição, PhD </font>  
+(Postdoctoral Fellow)  
+Lázaro is interested in the systematics, biogeography, and evolution of Myrtaceae. His research focuses on species delimitation within highly diverse and taxonomically complex tropical plant lineages, using Neotropical myrtles as a model system. To address this, he is building a robust phylogenomic framework for a target clade within the group. lconceic@umich.edu | [Lázaro's Research Gate](https://www.researchgate.net/profile/Lazaro-Henrique-Soares-De-Moraes-Conceicao) | [Lázaro's Google scholar](https://scholar.google.com.br/citations?hl=pt-BR&user=ssa6ZV4AAAAJ)
   
 </div>  
 
@@ -120,9 +122,11 @@ Eric's research interests revolve around questions at large scales in biology: b
 
 <style> body {text-align: center} </style> 
   
+2025-2026: Eric Hagen, postdoc (UM-EEB).  
 2021-2026: Patrícia Sperotto, co-mentored PhD student (UFRGS, Brazil).  
 2023-2026: Yacov Kilsztajn, co-mentored MSc student (UFRN, Brazil).  
 2023-2025: Sandra Reinales, co-mentored PhD student (USP, Brazil).  
+2024-2025: Ari Hoffman, undergraduate student (UM-EEB).  
 2023-2025: Aline Martins, postdoc (UM-EEB).   
 2024-2025: Aya Mortada, visiting PhD student (Unimore, Italy).  
 2023,2024: Zoe Bugnaski, undergraduate student (UM-EEB).  
@@ -133,7 +137,7 @@ Eric's research interests revolve around questions at large scales in biology: b
 2023: Dahlia Rose, undergraduate student (UM-EEB).  
 2023: Natalie Neumann, undergraduate student (UM-EEB).  
 2023: Emily Lancaster, undergraduate student (UM-EEB).  
-2019-2023: Lilian Melo, co-advised PhD student (Uppsala University, Sweden).  
+2019-2023: Lilian Melo, co-advised PhD student (UFU, Brazil).  
 2018-2020: Raquel Pizzardo, undergraduate student (USP, Brazil).  
 2018-2020: Mirian Antonicelli, undergraduate student (USP, Brazil).  
   
