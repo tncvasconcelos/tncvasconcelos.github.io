@@ -10,18 +10,36 @@ title: ""
 ___
   
   **bold** indicates current or former members of the lab
-   
+
+## **2026**   
+
+Laborieux, L., **Heinrich, L.**, Januario, M., Sanders, N. J., **Vasconcelos, T.**, & Swain, A. (2026). Global bee bioregions mirror those of other taxa despite a uniquely bimodal latitudinal diversity gradient. *Proceedings of the National Academy of Sciences*, 123(44), e2620558123. <a href="papers/laborieux-et-al-2026-global-bee-bioregions-mirror-those-of-other-taxa-despite-a-uniquely-bimodal-latitudinal-diversity.pdf#" class="download" style="color:black" title="">[get PDF]</a>
+  
+**Gaem, P. H.**, Boyko, J. D., Mazine, F. F., Valdemarin, K. S., Smith, S. A., & **Vasconcelos, T.** (2026). Multiple Trans‐Marine Dispersals and Niche Conservatism Underlie the Pantropical Distribution of Eugeniinae (Myrtaceae). *Journal of Biogeography*, 53(10), e70387. <a href="papers/gaem et al 2026 - eugeniinae biogeo.pdf#" class="download" style="color:black" title="">[get PDF]</a>
+  
+Giaretta, A., **Vasconcelos, T. N.**, Kubo, M. T., Prenner, G., Mazine, F. F., Faria, J. E., Fregonezi, J. , Sano, P.T. , & Lucas, E. J. (2026). Inflorescence architecture and development in the megadiverse Eugenia (Myrteae, Myrtaceae): an evolutionary perspective. *AoB Plants*, 18(5), plag037.<a href="papers/Giaretta_et_al_2026.pdf#" class="download" style="color:black" title="">[get PDF]</a>
+  
+**Kilsztajn, Y.**, **Conceição, L. H. S. M. D.**, **Vasconcelos, T.**, Proença, C. E. B., & Staggemeier, V. G. (2026). Herbarium‐based measurements are reliable predictors of fresh plant traits in Neotropical Myrtaceae. *Applications in Plant Sciences*, e70082. <a href="papers/Kilsztajn_et_al_2026.pdf#" class="download" style="color:black" title="">[get PDF]</a>
+  
+CPT group (2026). Cerrado plant traits (CPT): a database of functional traits across vegetation types in a global biodiversity hotspot. *Annals of Botany*, mcag176. <a href="papers/cpt_2026.pdf#" class="download" style="color:black" title="">[get PDF]</a>
+
+**Hoffman, A. E., Vasconcelos, T., & Hagen, E. R.** (2026). Bees as Ambassadors for Plant Awareness and Conservation. *Plant‐Environment Interactions*, 7(3), e70171. <a href="papers/Hoffman_et_al_2026.pdf#" class="download" style="color:black" title="">[get PDF]</a>
+
+Title, P. O., Henao-Díaz, L. F., Zenil-Ferguson, R., & **Vasconcelos, T.** (2026). An evolving view of lineage diversification. *Systematic Biology*, 75(3), 391-405. <a href="papers/Title_et_al2026.pdf#" class="download" style="color:black" title="">[get PDF]</a>
+  
+Noori, S., Hughes, A. C., **Vasconcelos, T. N. C.**, Ascher, J. S., Miller, J. T., Gaugel, S. M., Ostwald, M. M., Dorey, J. B., Gonzalez, V. H., **Martins, A. C.**, Orr, M. C., & Seltmann, K. C. (2026). A curated and integrated dataset for exploring global bee-plant interactions. Scientific Data, 13(1), 390. <a href="papers/Noori_etal2026.pdf#" class="download" style="color:black" title="">[get PDF]</a>
+
+**Vasconcelos, T.**, Weaver, W. N., Baumgartner, A., **Bugnaski, Z.**, & Boyko, J. (2026). Automated extraction of leaf mass per area from digitized herbarium specimens. *New Phytologist*, 251(2), 896-908. <a href="papers/Vasconcelos_etal2026.pdf#" class="download" style="color:black" title="">[get PDF]</a>
+  
 ## **2025**   
+  
+**Martins, A. C.**, Freitas, F. V., Rocha‐Filho, L. C., Branstetter, M. G., Aguiar, A. J., Almeida, E. A., & **Vasconcelos, T.** (2025). Host‐cleptoparasite biogeographical congruence through time: the case of cuckoo oil bees. *Journal of Biogeography*, 52(5), e15101.  <a href="papers/Journal of Biogeography - 2025 - Martins - Host%E2%80%90Cleptoparasite Biogeographical Congruence Through Time  The Case of Cuckoo.pdf#" class="download" style="color:black" title="">[get PDF]</a>
+  
+**Martins, A. C.**, **Heinrich, L.**, Hughes, A. C., Seltmann, K. C., Orr, M. C., & **Vasconcelos, T**. (2025). Plant communities in the Americas are highly bee dependent regardless of biome or local bee diversity. *Global Ecology and Biogeography*, 34(8), e70101. <a href="papers/Martinsetal2025_bee_angio_mismatch.pdf#" class="download" style="color:black" title="">[get PDF]</a> <a href="papers/.pdf#" class="download" style="color:black" title="">[get PDF]</a>
+  
+**Fernandes, T.**, Lucas, E. J., **Vasconcelos, T. N.**, & Braga, J. M. A. (2025). Extended description and taxonomic notes on two recently rediscovered Myrcia (Myrtaceae) in the Brazilian Atlantic Forest. *Rodriguésia*, 76, e00292024. <a href="papers/.pdf#" class="download" style="color:black" title="">[get PDF]</a>
 
-**Vasconcelos, T.**, Weaver, W. N., Baumgartner, A., **Bugnaski, Z.**, & Boyko, J. (2025). Automated extraction of leaf mass per area from digitized herbarium specimens. *New Phytologist*.
-  
-**Martins, A. C.**, Freitas, F. V., Rocha‐Filho, L. C., Branstetter, M. G., Aguiar, A. J., Almeida, E. A., & **Vasconcelos, T.** (2025). Host‐Cleptoparasite Biogeographical Congruence Through Time: The Case of Cuckoo Oil Bees. *Journal of Biogeography*. 
-  
-**Martins, A. C.**, **Heinrich, L.**, Hughes, A. C., Seltmann, K. C., Orr, M. C., & **Vasconcelos, T**. (2025). Plant communities in the Americas are highly bee dependent regardless of biome or local bee diversity. *Global Ecology and Biogeography*, 34(8), e70101. <a href="papers/Martinsetal2025_bee_angio_mismatch.pdf#" class="download" style="color:black" title="">[get PDF]</a> 
-  
-**Fernandes, T.**, Lucas, E. J., **Vasconcelos, T. N.**, & Braga, J. M. A. (2025). Extended description and taxonomic notes on two recently rediscovered Myrcia (Myrtaceae) in the Brazilian Atlantic Forest. *Rodriguésia*, 76, e00292024. 
-
-**Sperotto, P.**, **Vasconcelos, T.**, Kriebel, R., & Reginato, M. (2025). Evolutionary shift in petal function from pollinator attraction to water drainage in small buzz-pollinated flowers. *Evolution*, qpaf183. 
+**Sperotto, P.**, **Vasconcelos, T.**, Kriebel, R., & Reginato, M. (2025). Evolutionary shift in petal function from pollinator attraction to water drainage in small buzz-pollinated flowers. *Evolution*, qpaf183. <a href="papers/.pdf#" class="download" style="color:black" title="">[get PDF]</a>
   
 ## **2024**   
 
@@ -29,6 +47,7 @@ ___
 ![](images/apps_2025.png){}
   
 </div>  
+Santos, M. F., Amorim, B. S., Burton, G. P., Faria, J. E. Q., Fernandes, T., Flickinger, J. A., Gaem, P. H., Landrum, L. R., Lima, D. F., Proença, C. E. B., Rosa, P. O., Lima-dos-Santos, L., Setubal, R. B., Stadnik, A. M. S., Staggemeier, V. G., **Vasconcelos, T. N. C.**, & Lucas, E. J. (2024). A taxonomic account of Myrciinae (Myrteae, Myrtaceae): generic and sectional placement of forgotten species and a list of all accepted species. *Phytotaxa*, 674(2), 129-170. <a href="papers/Santos_et_al_2026.pdf#" class="download" style="color:black" title="">[get PDF]</a> <a href="papers/Spp_Myrcia_Section.xlsx#" class="download" style="color:black" title=""> *Bonus! here is the excel version of appendix 1* </a> 
   
 **Vasconcelos, T.**, & Boyko, J. D. (2024). mvh: An R tool to assemble and organize virtual herbaria from openly available specimen images. Applications in Plant Sciences, e11631. <a href="papers/Vasconcelos&Boyko2024_mvh.pdf#" class="download" style="color:black" title="">[get PDF]</a> 
   

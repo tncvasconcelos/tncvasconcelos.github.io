@@ -56,17 +56,14 @@ Dylan is interested in how species originate, how they got to where they are tod
 (Postdoctoral Fellow)  
 Lázaro is interested in the systematics, biogeography, and evolution of Myrtaceae. His research focuses on species delimitation within highly diverse and taxonomically complex tropical plant lineages, using Neotropical myrtles as a model system. To address this, he is building a robust phylogenomic framework for a target clade within the group. lconceic@umich.edu | [Lázaro's Research Gate](https://www.researchgate.net/profile/Lazaro-Henrique-Soares-De-Moraes-Conceicao) | [Lázaro's Google scholar](https://scholar.google.com.br/citations?hl=pt-BR&user=ssa6ZV4AAAAJ)
   
-</div>  
-
-<div style= "float:left;left: 0px;top: 0px;position: relative;padding: 0px; width:260px; margin: 0px 0px 0px 0px">
-![](images/blank.jpg){}  
-  
-<font size="4"></font>  
 
 </div>  
 
 <div style= "float:right;top: -0px;right: 20px;position: relative; padding: 0px; width:260px; margin: -0px 0px">
-![](images/blank.jpg){}  
+![](images/27UMICH-17567763_McKernan_00002-01.jpg){}  
+<font size="4">Callan McKernan</font>  
+(Undergraduate Student)
+Callan is broadly interested in genetics, molecular biology, and genomics. Their work focuses on DNA extraction and sequencing as techniques to explore phylogenetics and the degree of relatedness between species in the *Calycolpus* and *Eugenia* genera of the Myrtaceae family using historical herbarium specimens. ctmckern@umich.edu
   
 
 
