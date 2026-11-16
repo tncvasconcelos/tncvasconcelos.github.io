@@ -48,9 +48,8 @@ Paulo is interested in systematics and evolution of highly diverse tropical plan
 Dylan is interested in how species originate, how they got to where they are today, and the processes that generate new species. He is interested in utilizing herbarium collections, field work, and molecular data to answer these questions. dylsheng@umich.edu 
   
 </div>  
-  
-  
-<div style= "float:left;left: 20px;top: 0px;position: relative; padding: 0px; width:260px; margin: 0px 65px 0px 0px"> 
+
+<div style= "float:left;left: 0px;top: 0px;position: relative;padding: 0px; width:260px; margin: 0px 0px 0px 0px">
 ![](images/lazaro-01.jpg){}  
 <font size="4">Lázaro Conceição, PhD </font>  
 (Postdoctoral Fellow)  
